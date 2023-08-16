@@ -67,6 +67,7 @@ List of the remote software companies hiring in Europe
 |Prezly 🇧🇪 |Public Relations|🖥 PHP, Symfony 🎨 React, JavaScript, TypeScript, NextJS ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/prezly) |
 |Puppet 🇺🇸 |Infrastructure|🖥 Golang ☁️ GCP, AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/puppet) |
 |RedHat 🇺🇸 |Operating Systems|🖥 Java, Spring Framework 🎨 React, JavaScript ☁️ OpenShift| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/redhat) |
+|SerpApi 🇺🇸 |Search Data|🖥 Ruby, Rails, MongoDB 🎨 JavaScript, React | ✅ | ✅ |[ℹ️](https://serpapi.com/careers) |
 |Shopify 🇺🇸 |E-commerce|🖥 Ruby, Rails, GraphQL, Java 🎨 Typescript, React ☁️ GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/shopify) |
 |Sketch 🏡 |Design|🖥 Elixir, GraphQL, C++, Phoenix, Python, Golang 🎨 JavaScript, React, ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/sketch) |
 |Slite 🇫🇷 |Project management|🖥 Golang, Rails, Ruby 🎨 React, JavaScript, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/slite) |
