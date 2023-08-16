@@ -87,7 +87,20 @@ List of the remote software companies hiring in Europe
 
 
 
-Subscribe to the [job alerts](https://europeanremote.com/alerts) to get weekly selected opportunities straight into your inbox.
+📨 Subscribe to the [job alerts](https://europeanremote.com/alerts) and get weekly selected opportunities straight into your inbox:
+*    [🐍 Python](https://europeanremote.com/alerts/python) - jobs for Python/Django devs but also for ML engineers and data scientists
+*    [☁️ DevOps](https://europeanremote.com/alerts/devops) - jobs for DevOps engineers (AWS, Azure, GCP, etc.)
+* [🖥 Back-end JavaScript](https://europeanremote.com/alerts/backend-javascript) - jobs with JavaScript/TypeScript on the back-end (Node.js, etc.) and also for the full-stack JS devs
+* [🎨 Front-end](https://europeanremote.com/alerts/front-end) - jobs for front-end developers (JavaScript/TypeScript, React, Angular, Vue.js, Backbone, Ember, etc.)
+* [🖥 Java & JVM](https://europeanremote.com/alerts/jvm) - back-end jobs using Java, Kotlin, Scala, Groovy, etc.
+*    [🧙‍♀️ product management](https://europeanremote.com/alerts/product-management) - jobs for product managers/owners, head of X management roles
+*    [🎨 UI/UX design](https://europeanremote.com/alerts/ui-ux-design) - UI/UX design opportunities
+* [🖥 PHP](https://europeanremote.com/alerts/php) - jobs for PHP developers (Symfony, Laravel, Cake, plain PHP, and WordPress)
+*    [🖥 C# & .NET](https://europeanremote.com/alerts/dot-net) - jobs for .NET & C# devs
+*    [🖥 Ruby & Rails](https://europeanremote.com/alerts/ruby-rails) - jobs for Ruby, RoR, Sinatra devs
+* [📱mobile dev](https://europeanremote.com/alerts/mobile) - jobs for mobile developers (Swift/iOS, Kotlin/Android but also hybrid tools like React Native, Flutter, Ionic, Xamarin)
+*    [⚒️ testing & QA](https://europeanremote.com/alerts/qa-testing) - jobs for manual and automated QA engineers/testers (Selenium, etc.)
+
 
 European Remote is available in multiple language versions:
 
