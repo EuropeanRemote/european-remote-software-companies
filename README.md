@@ -73,6 +73,7 @@ List of the remote software companies hiring in Europe
 |StackOverflow 🇺🇸 |Online community|🖥 C#, .NET, TypeScript| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/stackoverflow) |
 |Stripe 🇺🇸 |Online payments|🖥 Ruby, Scala, Go, GraphQL 🎨 React, Flow ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/stripe) |
 |SUSE 🇩🇪 |Operating Systems|🖥 Python, Django, C, Golang 🎨 JavaScript, jQuery, ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/suse) |
+|Synthesia 🇬🇧 |Generative AI video|🖥 Python (Flask), Node.js, C++ 🎨 React, Typescript ☁️ AWS serverless| ❌ | ✅ |[ℹ️]([https://europeanremote.com/teams/suse](https://www.synthesia.io/careers)) |
 |Toggl 🇪🇪 |Time tracking|🖥 Golang, Ruby 🎨 JavaScript ☁️ GCP| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/toggl) |
 |Travis 🇩🇪 |Infrastructure|🖥 Golang, Ruby 🎨 JavaScript, Ember.js ☁️ Heroku| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/travis) |
 |Trello 🇺🇸 |Project management|🖥 Node.js 🎨 JavaScript, CoffeeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/trello) |
