@@ -14,7 +14,6 @@ List of the remote software companies hiring in Europe
 |Buffer 🏡 |Social media automation|🖥 Node.js, GraphQL 🎨 React, Next.js| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/buffer) |
 |Cabify 🇪🇸 |Transport|🖥 Golang, Elixir, Ruby, Java 🎨 React, TypeScript ☁️ AWS, GCP| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/cabify) |
 |Canonical 🇬🇧 |Operating Systems|🖥 Python, Golang| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/canonical) |
-|Casumo 🇲🇹 |Gaming|🖥 Python, Java, Spring Framework, Dropwizard 🎨 React, JavaScript, Vue.js ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/casumo) |
 |Chili Piper 🇺🇸 |Sales|🖥 Kotlin, Scala, Akka, Play ☁️ GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/chili-piper) |
 |CircleCI 🇺🇸 |Infrastructure|🖥 Python, Ruby, Django, Golang, Clojure 🎨 React, JavaScript, TypeScript ☁️ AWS, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/circleci) |
 |Clevertech 🇺🇸 |Custom software development|🖥 PHP, Python, Node.js, Java, Spring Framework 🎨 JavaScript, TypeScript, React ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/clevertech) |
@@ -32,7 +31,6 @@ List of the remote software companies hiring in Europe
 |Epam 🇺🇸 |Custom software development|🖥 C#, Kotlin, Java, GraphQL, Ruby, Rails, Python, .NET, 🎨 Vue.js, Angular, React, JavaScript, TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/epam) |
 |Epic Games 🇺🇸 |Gaming|🖥 Node.js, JavaScript, C++, Golang, Python, Java, Kotlin, Scala, Golang, C# 🎨 React, JavaScript, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/epic-games) |
 |Etsy 🇺🇸 |Marketplace|🖥 PHP, Scala ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/etsy) |
-|Expedia Group 🇺🇸 |Travel|🖥 JavaScript, Python, Java, Node.js, GraphQL, Kotlin, Jersey 🎨 React, Javascript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/expedia) |
 |Ghost 🏡 |Content management|🖥 JavaScript, Node.js 🎨 JavaScript, Ember.js| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/ghost) |
 |Gitbook 🇪🇺 |Project management|🖥 Node.js, JavaScript 🎨 React, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/gitbook) |
 |GitHub 🇺🇸 |Infrastructure|🖥 .NET, C#, Ruby, Golang, JavaScript 🎨 JavaScript ☁️ Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/github) |
@@ -62,7 +60,6 @@ List of the remote software companies hiring in Europe
 |Netlify 🇺🇸 |Infrastructure|🖥 Ruby, Golang, Rust, C++ 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/netlify) |
 |Nozbe 🇵🇱 |Productivity tool|🖥 JavaScript, Python 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/nozbe) |
 |npm 🇺🇸 |Infrastructure|🖥 Node.js, JavaScript, Golang, Ruby, Rails 🎨 JavaScript, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/npm) |
-|Oracle 🇺🇸 |Databases & tools|🖥 C#, .NET, Java, C++, Kotlin, Golang, C, Python 🎨 JavaScript, React, Angular ☁️ OCI, AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/oracle) |
 |Potentially 🇬🇧 |EdTech|🖥 Kotlin, Spring Framework, Java, PHP 🎨 Angular, TypeScript ☁️ AWS| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/potentially) |
 |Prezly 🇧🇪 |Public Relations|🖥 PHP, Symfony 🎨 React, JavaScript, TypeScript, NextJS ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/prezly) |
 |Puppet 🇺🇸 |Infrastructure|🖥 Golang ☁️ GCP, AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/puppet) |
@@ -70,7 +67,7 @@ List of the remote software companies hiring in Europe
 |SerpApi 🇺🇸 |Search Data|🖥 Ruby, Rails, MongoDB 🎨 JavaScript, React | ✅ | ✅ |[ℹ️](https://serpapi.com/careers) |
 |Shopify 🇺🇸 |E-commerce|🖥 Ruby, Rails, GraphQL, Java 🎨 Typescript, React ☁️ GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/shopify) |
 |Sketch 🏡 |Design|🖥 Elixir, GraphQL, C++, Phoenix, Python, Golang 🎨 JavaScript, React, ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/sketch) |
-|Slite 🇫🇷 |Project management|🖥 Golang, Rails, Ruby 🎨 React, JavaScript, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/slite) |
+|Slite 🇫🇷 |Project management|🖥 JavaScript, TypeScript, GraphQL 🎨 JavaScript, TypeScript| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/slite) |
 |SoftwareMill 🇵🇱 |Custom software development|🖥 Scala, Java, Spring Framework, Akka, Kotlin 🎨 JavaScript, TypeScript, React, Angular ☁️ AWS, GCP| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/softwaremill) |
 |Square 🇺🇸 |Online payments|🖥 Python, Node.js, Java, Golang, Ruby 🎨 JavaScript ☁️ Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/square) |
 |StackOverflow 🇺🇸 |Online community|🖥 C#, .NET, TypeScript| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/stackoverflow) |
@@ -79,7 +76,6 @@ List of the remote software companies hiring in Europe
 |Toggl 🇪🇪 |Time tracking|🖥 Golang, Ruby 🎨 JavaScript ☁️ GCP| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/toggl) |
 |Travis 🇩🇪 |Infrastructure|🖥 Golang, Ruby 🎨 JavaScript, Ember.js ☁️ Heroku| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/travis) |
 |Trello 🇺🇸 |Project management|🖥 Node.js 🎨 JavaScript, CoffeeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/trello) |
-|Twitter 🇺🇸 |Social media|🖥 Java, Scala| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/twitter) |
 |Tyk 🇬🇧 |Infrastructure|🖥 Golang 🎨 React, JavaScript, TypeScript ☁️ AWS, Azure, OpenShift| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/tyk) |
 |Uhuru Network 🇺🇸 |Marketing|🖥 Node.js, Express, JavaScript 🎨 Next.js, React, TypeScript ☁️ AWS, Heroku| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/uhuru-network) |
 |Vercel 🇺🇸 |Infrastructure|🖥 JavaScript 🎨 Next.js, React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/vercel) |
@@ -89,18 +85,18 @@ List of the remote software companies hiring in Europe
 
 
 📨 Subscribe to the [job alerts](https://europeanremote.com/alerts) and get weekly selected opportunities straight into your inbox:
-*    [🐍 Python](https://europeanremote.com/alerts/python) - jobs for Python/Django devs but also for ML engineers and data scientists
-*    [☁️ DevOps](https://europeanremote.com/alerts/devops) - jobs for DevOps engineers (AWS, Azure, GCP, etc.)
+* [🐍 Python](https://europeanremote.com/alerts/python) - jobs for Python/Django devs but also for ML engineers and data scientists
+* [☁️ DevOps](https://europeanremote.com/alerts/devops) - jobs for DevOps engineers (AWS, Azure, GCP, etc.)
 * [🖥 Back-end JavaScript](https://europeanremote.com/alerts/backend-javascript) - jobs with JavaScript/TypeScript on the back-end (Node.js, etc.) and also for the full-stack JS devs
 * [🎨 Front-end](https://europeanremote.com/alerts/front-end) - jobs for front-end developers (JavaScript/TypeScript, React, Angular, Vue.js, Backbone, Ember, etc.)
 * [🖥 Java & JVM](https://europeanremote.com/alerts/jvm) - back-end jobs using Java, Kotlin, Scala, Groovy, etc.
-*    [🧙‍♀️ product management](https://europeanremote.com/alerts/product-management) - jobs for product managers/owners, head of X management roles
-*    [🎨 UI/UX design](https://europeanremote.com/alerts/ui-ux-design) - UI/UX design opportunities
+* [🧙‍♀️ product management](https://europeanremote.com/alerts/product-management) - jobs for product managers/owners, head of X management roles
+* [🎨 UI/UX design](https://europeanremote.com/alerts/ui-ux-design) - UI/UX design opportunities
 * [🖥 PHP](https://europeanremote.com/alerts/php) - jobs for PHP developers (Symfony, Laravel, Cake, plain PHP, and WordPress)
-*    [🖥 C# & .NET](https://europeanremote.com/alerts/dot-net) - jobs for .NET & C# devs
-*    [🖥 Ruby & Rails](https://europeanremote.com/alerts/ruby-rails) - jobs for Ruby, RoR, Sinatra devs
+* [🖥 C# & .NET](https://europeanremote.com/alerts/dot-net) - jobs for .NET & C# devs
+* [🖥 Ruby & Rails](https://europeanremote.com/alerts/ruby-rails) - jobs for Ruby, RoR, Sinatra devs
 * [📱mobile dev](https://europeanremote.com/alerts/mobile) - jobs for mobile developers (Swift/iOS, Kotlin/Android but also hybrid tools like React Native, Flutter, Ionic, Xamarin)
-*    [⚒️ testing & QA](https://europeanremote.com/alerts/qa-testing) - jobs for manual and automated QA engineers/testers (Selenium, etc.)
+* [⚒️ testing & QA](https://europeanremote.com/alerts/qa-testing) - jobs for manual and automated QA engineers/testers (Selenium, etc.)
 
 
 European Remote is available in multiple language versions:
