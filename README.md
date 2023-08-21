@@ -25,6 +25,7 @@ List of the remote software companies hiring in Europe
 |Discourse 🇺🇸 |Online community|🖥 Ruby, Rails 🎨 Ember.js, JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/discourse) |
 |Docker 🇺🇸 |Infrastructure|🖥 Golang, C#, Swift 🎨 React, JavaScript, Electron| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/docker) |
 |Doist 🏡 |Productivity tool|🖥 Python, Java, Kotlin 🎨 React, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/doist) |
+|DoiT International 🏡 |Cloud Infrastructure|🖥 Golang,PHP ☁️ AWS/GCP| ❌ | ❌ |[ℹ️](https://careers.doit.com/) |
 |Dribbble 🏡 |Marketplace|🖥 Ruby, Rails 🎨 JavaScript, Vue.js ☁️ AWS| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/dribbble) |
 |DuckDuckGo 🇺🇸 |Search engine|🖥 C#, .NET, Kotlin, Swift, Golang, Perl| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/duckduckgo) |
 |Elastic 🇳🇱 |Infrastructure|🖥 Java, JavaScript 🎨 JavaScript, TypeScript, React| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/elastic) |
