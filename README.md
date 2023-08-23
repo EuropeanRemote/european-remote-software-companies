@@ -57,6 +57,7 @@ List of the remote software companies hiring in Europe
 |MapBox 🇺🇸 |Maps|🖥 Node.js, Express, JavaScript, C++, Qt 🎨 JavaScript, React, TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mapbox) |
 |MongoDB 🇺🇸 |Databases & tools|🖥 Golang, Python, Dart, C#, C++ 🎨 TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mongodb) |
 |Mozilla 🇺🇸 |Browsers|🖥 C++, Golang, Rust, JavaScript, Python 🎨 React, JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mozilla) |
+|Naologic 🇺🇸 |No-code Platform|🖥 Node.js, Golang, 🎨 Angular, TypeScript ☁️ Azure, AWS, GCP, Kuberenetes| ✅ | ❌ |[ℹ️](https://naologic.com) |
 |Netguru 🇵🇱 |Custom software development|🖥 Python, Node.js, Ruby, Rails, Elixir, Java, .NET, WordPress, PHP, Golang, 🎨 JavaScript, React, Angular, TypeScript, Vue.js ☁️ Azure, AWS, GCP| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/netguru) |
 |Netlify 🇺🇸 |Infrastructure|🖥 Ruby, Golang, Rust, C++ 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/netlify) |
 |Nozbe 🇵🇱 |Productivity tool|🖥 JavaScript, Python 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/nozbe) |
