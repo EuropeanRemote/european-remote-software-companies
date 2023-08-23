@@ -2,8 +2,8 @@
 List of the remote software companies hiring in Europe
 | Company | Domain | Tech-stack | Salary transparency | Global salary | Profile |
 | ------- | ------ | :--------: | :-----------------: | :-----------: | :-----: |
-|1Password 🇨🇦 |Password management|🖥 Golang 🎨 React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/1password) |
-|Ahrefs 🇺🇸 |SEO|🖥 C++, Rust, OCaml, ReasonML 🎨 React, JavaScript, Gatsby| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/ahrefs) |
+|1Password 🇨🇦 |Security|🖥 Golang 🎨 React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/1password) |
+|Ahrefs 🇺🇸 |Search engine tools|🖥 C++, Rust, OCaml, ReasonML 🎨 React, JavaScript, Gatsby| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/ahrefs) |
 |Airtable 🇺🇸 |Databases & tools|🖥 Ruby, Node.js, JavaScript 🎨 JavaScript, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/airtable) |
 |Aula Education 🇬🇧 |EdTech|🖥 JavaScript, Node.js 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/aula-education) |
 |Auth0 🇺🇸 |Security|🖥 Node.js, GraphQL 🎨 React ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/auth0) |
@@ -11,9 +11,11 @@ List of the remote software companies hiring in Europe
 |Balsamiq 🇮🇹 |Design|🖥 Rails, Ruby ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/balsamiq) |
 |Baremetrics 🇺🇸 |Business management|🖥 Ruby 🎨 Vue.js, TypeScript| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/baremetrics) |
 |BaseCamp 🏡 |Project management|🖥 Ruby, Rails| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/basecamp) |
+|Bind 🇬🇧 |Online community|🖥 JavaScript, Node.js, TypeScript 🎨 React, JavaScript, TypeScript| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/bind) |
 |Buffer 🏡 |Social media automation|🖥 Node.js, GraphQL 🎨 React, Next.js| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/buffer) |
 |Cabify 🇪🇸 |Transport|🖥 Golang, Elixir, Ruby, Java 🎨 React, TypeScript ☁️ AWS, GCP| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/cabify) |
 |Canonical 🇬🇧 |Operating Systems|🖥 Python, Golang| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/canonical) |
+|ChartMogul 🇩🇪 |Business management|🖥 Ruby, JavaScript, Python, Rails 🎨 Vue.js, TypeScript, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/chartmogul) |
 |Chili Piper 🇺🇸 |Sales|🖥 Kotlin, Scala, Akka, Play ☁️ GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/chili-piper) |
 |CircleCI 🇺🇸 |Infrastructure|🖥 Python, Ruby, Django, Golang, Clojure 🎨 React, JavaScript, TypeScript ☁️ AWS, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/circleci) |
 |Clevertech 🇺🇸 |Custom software development|🖥 PHP, Python, Node.js, Java, Spring Framework 🎨 JavaScript, TypeScript, React ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/clevertech) |
@@ -25,9 +27,9 @@ List of the remote software companies hiring in Europe
 |Discourse 🇺🇸 |Online community|🖥 Ruby, Rails 🎨 Ember.js, JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/discourse) |
 |Docker 🇺🇸 |Infrastructure|🖥 Golang, C#, Swift 🎨 React, JavaScript, Electron| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/docker) |
 |Doist 🏡 |Productivity tool|🖥 Python, Java, Kotlin 🎨 React, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/doist) |
-|DoiT International 🏡 |Cloud Infrastructure|🖥 Golang,PHP ☁️ AWS/GCP| ❌ | ❌ |[ℹ️](https://careers.doit.com/) |
+|DoiT International 🇺🇸 |Infrastructure|🖥 Golang, PHP 🎨 JavaScript ☁️ AWS, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/doit) |
 |Dribbble 🏡 |Marketplace|🖥 Ruby, Rails 🎨 JavaScript, Vue.js ☁️ AWS| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/dribbble) |
-|DuckDuckGo 🇺🇸 |Search engine|🖥 C#, .NET, Kotlin, Swift, Golang, Perl| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/duckduckgo) |
+|DuckDuckGo 🇺🇸 |Search engine tools|🖥 C#, .NET, Kotlin, Swift, Golang, Perl| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/duckduckgo) |
 |Elastic 🇳🇱 |Infrastructure|🖥 Java, JavaScript 🎨 JavaScript, TypeScript, React| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/elastic) |
 |Epam 🇺🇸 |Custom software development|🖥 C#, Kotlin, Java, GraphQL, Ruby, Rails, Python, .NET, 🎨 Vue.js, Angular, React, JavaScript, TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/epam) |
 |Epic Games 🇺🇸 |Gaming|🖥 Node.js, JavaScript, C++, Golang, Python, Java, Kotlin, Scala, Golang, C# 🎨 React, JavaScript, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/epic-games) |
@@ -35,6 +37,7 @@ List of the remote software companies hiring in Europe
 |Ghost 🏡 |Content management|🖥 JavaScript, Node.js 🎨 JavaScript, Ember.js| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/ghost) |
 |Gitbook 🇪🇺 |Project management|🖥 Node.js, JavaScript 🎨 React, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/gitbook) |
 |GitHub 🇺🇸 |Infrastructure|🖥 .NET, C#, Ruby, Golang, JavaScript 🎨 JavaScript ☁️ Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/github) |
+|GitGuardian 🇫🇷 |Infrastructure|🖥 Python, Django, Golang 🎨 JavaScript, React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/gitguardian) |
 |GitLab 🏡 |Infrastructure|🖥 Ruby, Rails 🎨 Vue.js ☁️ GCP, AWS| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/gitlab) |
 |GOhiring 🇩🇪 |Jobs & career|🖥 Ruby, Rails 🎨 Ember.js, React, JavaScript ☁️ AWS, Heroku| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/gohiring) |
 |Good Money 🇺🇸 |Banking|🖥 Scala, Golang, Python, GraphQL 🎨 JavaScript, TypeScript ☁️ AWS| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/good-money) |
@@ -57,17 +60,17 @@ List of the remote software companies hiring in Europe
 |MapBox 🇺🇸 |Maps|🖥 Node.js, Express, JavaScript, C++, Qt 🎨 JavaScript, React, TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mapbox) |
 |MongoDB 🇺🇸 |Databases & tools|🖥 Golang, Python, Dart, C#, C++ 🎨 TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mongodb) |
 |Mozilla 🇺🇸 |Browsers|🖥 C++, Golang, Rust, JavaScript, Python 🎨 React, JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mozilla) |
-|Naologic 🇺🇸 |No-code Platform|🖥 Node.js, Golang, 🎨 Angular, TypeScript ☁️ Azure, AWS, GCP, Kuberenetes| ✅ | ❌ |[ℹ️](https://naologic.com) |
+|Naologic 🇺🇸 |No-code|🖥 Node.js, Golang, TypeScript 🎨 Angular, TypeScript ☁️ Azure, AWS, GCP| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/naologic) |
 |Netguru 🇵🇱 |Custom software development|🖥 Python, Node.js, Ruby, Rails, Elixir, Java, .NET, WordPress, PHP, Golang, 🎨 JavaScript, React, Angular, TypeScript, Vue.js ☁️ Azure, AWS, GCP| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/netguru) |
 |Netlify 🇺🇸 |Infrastructure|🖥 Ruby, Golang, Rust, C++ 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/netlify) |
 |Nozbe 🇵🇱 |Productivity tool|🖥 JavaScript, Python 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/nozbe) |
 |npm 🇺🇸 |Infrastructure|🖥 Node.js, JavaScript, Golang, Ruby, Rails 🎨 JavaScript, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/npm) |
 |Potentially 🇬🇧 |EdTech|🖥 Kotlin, Spring Framework, Java, PHP 🎨 Angular, TypeScript ☁️ AWS| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/potentially) |
 |Prezly 🇧🇪 |Public Relations|🖥 PHP, Symfony 🎨 React, JavaScript, TypeScript, NextJS ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/prezly) |
-|PSPDFKit 🇺🇸 |Infrastructure|🖥 TypeScript, React, Next.js, Elixir, Rails, C++, ☁️ AWS| ❌ | ❌ |[ℹ️](https://pspdfkit.com/company/careers/)|
+|PSPDFKit 🇺🇸 |Infrastructure|🖥 Elixir, Ruby, Rails, C++, Node.js 🎨 TypeScript, React, Next.js ☁️ AWS, Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/pspdfkit) |
 |Puppet 🇺🇸 |Infrastructure|🖥 Golang ☁️ GCP, AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/puppet) |
 |RedHat 🇺🇸 |Operating Systems|🖥 Java, Spring Framework 🎨 React, JavaScript ☁️ OpenShift| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/redhat) |
-|SerpApi 🇺🇸 |Search Data|🖥 Ruby, Rails, MongoDB 🎨 JavaScript, React | ✅ | ✅ |[ℹ️](https://serpapi.com/careers) |
+|SerpApi 🇺🇸 |Search engine tools|🖥 Ruby, Rails 🎨 JavaScript, React| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/serpapi) |
 |Shopify 🇺🇸 |E-commerce|🖥 Ruby, Rails, GraphQL, Java 🎨 Typescript, React ☁️ GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/shopify) |
 |Sketch 🏡 |Design|🖥 Elixir, GraphQL, C++, Phoenix, Python, Golang 🎨 JavaScript, React, ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/sketch) |
 |Slite 🇫🇷 |Project management|🖥 JavaScript, TypeScript, GraphQL 🎨 JavaScript, TypeScript| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/slite) |
@@ -76,7 +79,9 @@ List of the remote software companies hiring in Europe
 |StackOverflow 🇺🇸 |Online community|🖥 C#, .NET, TypeScript| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/stackoverflow) |
 |Stripe 🇺🇸 |Online payments|🖥 Ruby, Scala, Go, GraphQL 🎨 React, Flow ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/stripe) |
 |SUSE 🇩🇪 |Operating Systems|🖥 Python, Django, C, Golang 🎨 JavaScript, jQuery, ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/suse) |
-|Synthesia 🇬🇧 |Generative AI video|🖥 Python (Flask), Node.js, C++ 🎨 React, Typescript ☁️ AWS serverless| ❌ | ✅ |[ℹ️]([https://europeanremote.com/teams/suse](https://www.synthesia.io/careers)) |
+|Synthesia 🇬🇧 |AI tools|🖥 Python, Flask, Node.js, C++ 🎨 React, TypeScript ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/synthesia) |
+|Talkable 🇺🇸 |Marketing|🖥 Ruby, Rails 🎨 React, TypeScript, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/talkable) |
+|thoughtbot 🇺🇸 |Custom software development|🖥 Ruby, Rails, Golang, Elixir 🎨 React, JavaScript ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/thoughtbot) |
 |Toggl 🇪🇪 |Time tracking|🖥 Golang, Ruby 🎨 JavaScript ☁️ GCP| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/toggl) |
 |Travis 🇩🇪 |Infrastructure|🖥 Golang, Ruby 🎨 JavaScript, Ember.js ☁️ Heroku| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/travis) |
 |Trello 🇺🇸 |Project management|🖥 Node.js 🎨 JavaScript, CoffeeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/trello) |
@@ -84,12 +89,12 @@ List of the remote software companies hiring in Europe
 |Uhuru Network 🇺🇸 |Marketing|🖥 Node.js, Express, JavaScript 🎨 Next.js, React, TypeScript ☁️ AWS, Heroku| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/uhuru-network) |
 |Vercel 🇺🇸 |Infrastructure|🖥 JavaScript 🎨 Next.js, React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/vercel) |
 |VMware 🇺🇸 |Infrastructure|🖥 Golang, Java, Kotlin, JavaScript, Ruby| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/vmware) |
-|Zapier 🇺🇸 |Social media automation|🖥 Python, Django, Node.js, Golang 🎨 React, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/zapier) |
+|Zapier 🇺🇸 |No-code|🖥 Python, Django, Node.js, Golang 🎨 React, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/zapier) |
 
 
 
 📨 Subscribe to the [job alerts](https://europeanremote.com/alerts) and get weekly selected opportunities straight into your inbox:
-* [🐍 Python](https://europeanremote.com/alerts/python) - jobs for Python/Django devs but also for ML engineers and data scientists
+* [🐍 Python](https://europeanremote.com/alerts/python) - jobs for Python (Django, Flask) devs but also for ML engineers and data scientists
 * [☁️ DevOps](https://europeanremote.com/alerts/devops) - jobs for DevOps engineers (AWS, Azure, GCP, etc.)
 * [🖥 Back-end JavaScript](https://europeanremote.com/alerts/backend-javascript) - jobs with JavaScript/TypeScript on the back-end (Node.js, etc.) and also for the full-stack JS devs
 * [🎨 Front-end](https://europeanremote.com/alerts/front-end) - jobs for front-end developers (JavaScript/TypeScript, React, Angular, Vue.js, Backbone, Ember, etc.)
