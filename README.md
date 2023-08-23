@@ -63,6 +63,7 @@ List of the remote software companies hiring in Europe
 |npm 🇺🇸 |Infrastructure|🖥 Node.js, JavaScript, Golang, Ruby, Rails 🎨 JavaScript, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/npm) |
 |Potentially 🇬🇧 |EdTech|🖥 Kotlin, Spring Framework, Java, PHP 🎨 Angular, TypeScript ☁️ AWS| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/potentially) |
 |Prezly 🇧🇪 |Public Relations|🖥 PHP, Symfony 🎨 React, JavaScript, TypeScript, NextJS ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/prezly) |
+|PSPDFKit 🇺🇸 |Infrastructure|🖥 TypeScript, React, Next.js, Elixir, Rails, C++, ☁️ AWS| ❌ | ❌ |[ℹ️](https://pspdfkit.com/company/careers/)|
 |Puppet 🇺🇸 |Infrastructure|🖥 Golang ☁️ GCP, AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/puppet) |
 |RedHat 🇺🇸 |Operating Systems|🖥 Java, Spring Framework 🎨 React, JavaScript ☁️ OpenShift| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/redhat) |
 |SerpApi 🇺🇸 |Search Data|🖥 Ruby, Rails, MongoDB 🎨 JavaScript, React | ✅ | ✅ |[ℹ️](https://serpapi.com/careers) |
