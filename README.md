@@ -3,6 +3,7 @@ List of the remote software companies hiring in Europe
 | Company | Domain | Tech-stack | Salary transparency | Global salary | Profile |
 | ------- | ------ | :--------: | :-----------------: | :-----------: | :-----: |
 |1Password 🇨🇦 |Security|🖥 Golang 🎨 React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/1password) |
+|Agile Lab 🇮🇹 |Databases & tools|🖥 Node.js, Java, Scala, TypeScript, Python 🎨 React, TypeScript ☁️ Azure, AWS, GCP| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/agile-lab) |
 |Ahrefs 🇸🇬 |Search engine tools|🖥 C++, DLang, OCaml, ReasonML 🎨 React, JavaScript, Gatsby, Melange| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/ahrefs) |
 |Airtable 🇺🇸 |Databases & tools|🖥 Ruby, Node.js, JavaScript 🎨 JavaScript, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/airtable) |
 |Aula Education 🇬🇧 |EdTech|🖥 JavaScript, Node.js 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/aula-education) |
