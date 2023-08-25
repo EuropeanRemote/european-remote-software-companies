@@ -107,6 +107,7 @@ List of the remote software companies hiring in Europe
 * [🖥 Ruby & Rails](https://europeanremote.com/alerts/ruby-rails) - jobs for Ruby, RoR, Sinatra devs
 * [📱mobile dev](https://europeanremote.com/alerts/mobile) - jobs for mobile developers (Swift/iOS, Kotlin/Android but also hybrid tools like React Native, Flutter, Ionic, Xamarin)
 * [⚒️ testing & QA](https://europeanremote.com/alerts/qa-testing) - jobs for manual and automated QA engineers/testers (Selenium, etc.)
+* [🦫 Golang](https://europeanremote.com/alerts/golang) - jobs for Go developers
 
 
 European Remote is available in multiple language versions:
