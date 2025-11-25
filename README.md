@@ -146,7 +146,6 @@ List of the remote software companies hiring in Europe
 |Lydia 🇫🇷 |FinTech & Payments|🖥 Python, Java| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/lydia) |
 |MailerLite 🇱🇹 |Mailing service|🖥 PHP 🎨 JavaScript, ReactJS, VueJS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/mailerlite) |
 |MapBox 🇺🇸 |Maps|🖥 Node.js, Express, JavaScript, C++, Qt 🎨 JavaScript, React, TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mapbox) |
-|Mapbox 🇺🇸 |Maps & Location|🖥 Node.js, Python, Scala, C++ ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mapbox) |
 |Marigold 🇺🇸 |Marketing & CRM| 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/marigold) |
 |Mechanical Orchard 🇺🇸 |Enterprise & Modernization|🖥 Java, Python, Elixir, Rust, Golang| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mechanical-orchard) |
 |Medallion 🇺🇸 |Healthcare & Compliance|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/medallion) |
