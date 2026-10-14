@@ -1,289 +1,240 @@
 # European Remote
-List of the remote software companies hiring in Europe
-| Company | Domain | Tech-stack | Salary transparency | Global salary | Profile |
-| ------- | ------ | :--------: | :-----------------: | :-----------: | :-----: |
-|1Password 🇨🇦 |Security|🖥 Golang 🎨 React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/1password) |
-|2hire 🇮🇹 |HR & Recruitment|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/2hire) |
-|360Learning 🇫🇷 |EdTech & Learning| ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/360learning) |
-|AUTO1 Group 🇩🇪 |Automotive & Marketplace|🖥 Java| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/auto1-group) |
-|AbsenceSoft 🇺🇸 |HR & Leave Management|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/absencesoft) |
-|Acante 🇺🇸 |Technology| 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/acante) |
-|Adverity 🇦🇹 |Marketing Analytics|🖥 Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/adverity) |
-|Agile Lab 🇮🇹 |Databases & tools|🖥 Node.js, Java, Scala, TypeScript, Python 🎨 React, TypeScript ☁️ Azure, AWS, GCP| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/agile-lab) |
-|Ahrefs 🇸🇬 |SEO & Marketing|🖥 Scala, OCaml, C++ 🎨 React ☁️ Cloudflare| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/ahrefs) |
-|Airtable 🇺🇸 |Databases & tools|🖥 Ruby, Node.js, JavaScript 🎨 JavaScript, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/airtable) |
-|Altilia 🇮🇹 |AI & Document Processing|🖥 Java, Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/altilia) |
-|Amplication 🇺🇸 |Developer Tools|🖥 TypeScript, Node.js 🎨 React| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/amplication) |
-|Angle Health 🇺🇸 |Healthcare & Insurance|🖥 Python, JavaScript 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/angle-health) |
-|Anomali 🇺🇸 |Cybersecurity|🖥 Java, Python, JavaScript 🎨 JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/anomali) |
-|Appfire 🇺🇸 |Enterprise Software|🖥 Java, JavaScript, Node.js 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/appfire) |
-|Aptus.AI 🇮🇹 |LegalTech & Compliance|🖥 Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/aptusai) |
-|Arduino 🇺🇸 |IoT & Hardware|🖥 C++, Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/arduino) |
-|Arista Networks 🇺🇸 |Cloud Networking|🖥 Python, C++, Golang, Java 🎨 JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/arista-networks) |
-|Ascend.io 🇺🇸 |Data Engineering|🖥 Java, Scala, Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/ascend-io) |
-|AssemblyAI 🇺🇸 |AI & Speech Recognition|🖥 Python, Java, Scala, Kotlin| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/assemblyai) |
-|Atlassian 🇦🇺 |Collaboration Software|🖥 Java ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/atlassian) |
-|Audemic 🇺🇸 |EdTech & Accessibility|🖥 Python, Ruby, Rails, Django 🎨 React| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/audemic) |
-|Aula Education 🇬🇧 |EdTech|🖥 JavaScript, Node.js 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/aula-education) |
-|Aura Company 🇺🇸 |Cybersecurity & Identity|🖥 JavaScript 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/aura-company) |
-|Auth0 🇺🇸 |Security|🖥 Node.js, GraphQL 🎨 React ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/auth0) |
-|Automattic 🇺🇸 |Content management system|🖥 PHP, WordPress 🎨 JavaScript ☁️ AWS| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/automattic) |
-|Balsamiq 🇮🇹 |Design|🖥 Rails, Ruby ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/balsamiq) |
-|Baremetrics 🇺🇸 |Business management|🖥 Ruby 🎨 Vue.js, TypeScript| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/baremetrics) |
-|BaseCamp 🏡 |Project management|🖥 Ruby, Rails| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/basecamp) |
-|BeReal 🇫🇷 |Social Media|🖥 Java| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/bereal) |
-|Bevy 🇺🇸 |Events & Community|🖥 Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/bevy) |
-|BillionToOne 🇺🇸 |Healthcare & Diagnostics|🖥 Python, Django 🎨 React, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/billiontoone) |
-|Bind 🇬🇧 |Online community|🖥 JavaScript, Node.js, TypeScript 🎨 React, JavaScript, TypeScript| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/bind) |
-|Bitwarden 🇺🇸 |Security & Password Management|🖥 JavaScript 🎨 JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/bitwarden) |
-|BlaBlaCar 🇫🇷 |Transportation & Ridesharing|🖥 Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/blablacar) |
-|Blip 🇧🇷 |Conversational AI|🖥 Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/blip) |
-|Block (formerly Square) 🇺🇸 |Online payments|🖥 Python, Node.js, Java, Golang, Ruby 🎨 JavaScript ☁️ Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/block) |
-|Buffer 🏡 |Social media|🖥 Node.js, Next.js, React 🎨 React, Next.js ☁️ AWS| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/buffer) |
-|Buildkite 🇦🇺 |DevOps & CI/CD| ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/buildkite) |
-|CAST AI 🇺🇸 |Cloud & DevOps|🖥 Golang, Python ☁️ AWS, GCP, Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/cast-ai) |
-|COMEHOME 🇺🇸 |Real Estate|🖥 JavaScript, Node.js, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/comehome) |
-|COMEHOME SRL 🇮🇹 |Social & Events|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/comehome-srl) |
-|Cabify 🇪🇸 |Transport|🖥 Golang, Elixir, Ruby, Java 🎨 React, TypeScript ☁️ AWS, GCP| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/cabify) |
-|Canonical 🇬🇧 |Operating Systems|🖥 Python, Go| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/canonical) |
-|Capital Rx 🇺🇸 |Healthcare & PBM|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/capital-rx) |
-|Castellum.ai 🇺🇸 |FinTech & Compliance|🖥 Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/castellumai) |
-|Celonis 🇩🇪 |Process Mining & Analytics| ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/celonis) |
-|Channel99 🇺🇸 |Marketing Analytics|🖥 Java| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/channel99) |
-|ChartMogul 🇩🇪 |Business management|🖥 Ruby, JavaScript, Python, Rails 🎨 Vue.js, TypeScript, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/chartmogul) |
-|Chili Piper 🇺🇸 |Sales|🖥 Kotlin, Scala, Akka, Play ☁️ GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/chili-piper) |
-|CircleCI 🇺🇸 |DevOps & CI/CD|🖥 JavaScript 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/circleci) |
-|Clarity AI 🇺🇸 |ESG & Sustainability|🖥 Python, Java ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/clarity-ai) |
-|Class Technologies 🇺🇸 |EdTech|🖥 Node.js, JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/class-technologies) |
-|Clevertech 🇺🇸 |Custom software development|🖥 PHP, Python, Node.js, Java, Spring Framework 🎨 JavaScript, TypeScript, React ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/clevertech) |
-|Cloudbeds 🇺🇸 |Hospitality & PMS|🖥 PHP 🎨 Vue.js, React ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/cloudbeds) |
-|Cloudera 🇺🇸 |Data Platform & Analytics|🖥 Java, TypeScript, Python 🎨 TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/cloudera) |
-|CoachHub 🇩🇪 |HR & Coaching|🖥 Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/coachhub) |
-|Codacy 🇵🇹 |Infrastructure|🖥 Scala ☁️ AWS| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/codacy) |
-|Cognism 🇬🇧 |Sales Intelligence|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/cognism) |
-|Collabora 🇬🇧 |Custom software development|🖥 Python, Django, Rust, Java, C++| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/collabora) |
-|Constructor.io 🇺🇸 |Ecommerce & AI|🖥 JavaScript, Node.js ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/constructorio) |
-|commercetools 🇩🇪 |E-commerce Platform|🖥 Java, JavaScript, C#, .NET, PHP ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/commercetools) |
-|Cribl 🇺🇸 |Observability & Data|🖥 JavaScript 🎨 JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/cribl) |
-|Datadog 🇺🇸 |Infrastructure|🖥 Java, Golang, JavaScript, Java EE, PHP, Ruby, .NET, C#, Python ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/datadog) |
-|DeepL 🇩🇪 |AI & Translation|🖥 Python ☁️ Cloudflare CDN| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/deepl) |
-|DexCare 🇺🇸 |Healthcare & Scheduling| 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/dexcare) |
-|DigitalOcean 🇺🇸 |Infrastructure|🖥 Linux, Go, Kubernetes, Python 🎨 React| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/digitalocean) |
-|Discourse 🇺🇸 |Community & Forum|🖥 Ruby, Rails 🎨 EmberJS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/discourse) |
-|Docker 🇺🇸 |Infrastructure|🖥 Golang, C#, Swift 🎨 React, JavaScript, Electron| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/docker) |
-|DoiT International 🇺🇸 |Infrastructure|🖥 Golang, PHP 🎨 JavaScript ☁️ AWS, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/doit) |
-|Doist 🇵🇹 |Project management|🖥 Python, Go 🎨 React, ES6 ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/doist) |
-|Dribbble 🇺🇸 |Marketplace|🖥 Ruby, Rails 🎨 JavaScript, Vue ☁️ AWS| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/dribbble) |
-|DuckDuckGo 🇺🇸 |Search engine tools|🖥 C#, .NET, Kotlin, Swift, Golang, Perl| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/duckduckgo) |
-|Eagle Eye Networks 🇺🇸 |Security & Video| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/eagle-eye-networks) |
-|Elastic 🇳🇱 |Infrastructure|🖥 Java, JavaScript, TypeScript 🎨 JavaScript, TypeScript, React| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/elastic) |
-|Electra Vehicles 🇮🇱 |Electric Vehicles & Charging|🖥 Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/electra-vehicles) |
-|Epam 🇺🇸 |Custom software development|🖥 C#, Kotlin, Java, GraphQL, Ruby, Rails, Python, .NET, 🎨 Vue.js, Angular, React, JavaScript, TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/epam) |
-|Epic Games 🇺🇸 |Gaming|🖥 Node.js, JavaScript, C++, Golang, Python, Java, Kotlin, Scala, Golang, C# 🎨 React, JavaScript, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/epic-games) |
-|Etsy 🇺🇸 |Marketplace|🖥 PHP, Scala ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/etsy) |
-|Eukarya 🇯🇵 |3D & Digital Twin| ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/eukarya) |
-|Everli 🇮🇹 |E-commerce & Delivery|🖥 PHP, Laravel 🎨 VueJS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/everli) |
-|Expedock 🇺🇸 |Logistics & AI| 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/expedock) |
-|Expensify 🇺🇸 |Fintech & Expense Management|🖥 PHP, C++, Java 🎨 JavaScript, React ☁️ AWS| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/expensify) |
-|Featurespace 🇬🇧 |Fintech & Security|🖥 Java, Python ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/featurespace) |
-|Fever 🇪🇸 |Events & Entertainment|🖥 Python 🎨 Flask, Django| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/fever) |
-|Fiat Republic 🇬🇧 |FinTech & BaaS|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/fiat-republic) |
-|FitBark 🇺🇸 |Pet Tech & IoT|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/fitbark) |
-|FloQast 🇺🇸 |FinTech & Accounting|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/floqast) |
-|Flywire 🇺🇸 |FinTech & Payments|🖥 Java 🎨 React| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/flywire) |
-|Folk 🇫🇷 |CRM & Sales|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/folk) |
-|Fornova 🇮🇱 |Hospitality & Revenue|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/fornova) |
-|Found 🇺🇸 |FinTech & Banking|🖥 Ruby, Rails 🎨 React, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/found) |
-|GOhiring 🇩🇪 |Jobs & career|🖥 Ruby, Rails 🎨 Ember.js, React, JavaScript ☁️ AWS, Heroku| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/gohiring) |
-|Garner Health 🇺🇸 |Healthcare & Benefits|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/garner-health) |
-|Ghost 🏡 |Content management system|🖥 Node.js 🎨 React, Handlebars| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/ghost) |
-|GitGuardian 🇫🇷 |Cybersecurity & DevOps|🖥 Python, Django, Golang 🎨 JavaScript, React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/gitguardian) |
-|GitHub 🇺🇸 |Infrastructure|🖥 .NET, C#, Ruby, Go, JavaScript 🎨 JavaScript, TypeScript ☁️ Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/github) |
-|GitLab 🇺🇸 |Infrastructure|🖥 Ruby, Rails 🎨 Vue ☁️ GCP, AWS| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/gitlab) |
-|Gitbook 🇪🇺 |Project management|🖥 Node.js, JavaScript 🎨 React, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/gitbook) |
-|GoPro 🇺🇸 |Consumer Electronics|🖥 Java, Python| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/gopro) |
-|GoStudent 🇦🇹 |EdTech & Tutoring|🖥 Node.js, Golang, JavaScript 🎨 React, React Native ☁️ Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/gostudent) |
-|Grafana Labs 🇺🇸 |Infrastructure|🖥 Golang, Python, Ruby, Java, 🎨 React, JavaScript, TypeScript ☁️ Azure, AWS, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/grafana-labs) |
-|Groupon 🇺🇸 |Ecommerce & Marketplace|🖥 Ruby, Rails, Node.js, Python 🎨 Ember.js| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/groupon) |
-|Gumroad 🇺🇸 |Marketplace|🖥 Ruby, Rails, JavaScript 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/gumroad) |
-|Gympass 🇺🇸 |Wellness & Benefits|🖥 Golang| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/gympass) |
-|H1 🇺🇸 |Healthcare & Data|🖥 Python, Java ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/h1) |
-|Habu 🇺🇸 |Data & Privacy| ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/habu) |
-|Harvest 🇺🇸 |Time tracking|🖥 Node.js, Ruby, Rails, GraphQL 🎨 JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/harvest) |
-|HashiCorp 🇺🇸 |DevOps & Infrastructure|🖥 Ruby, Rails ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/hashicorp) |
-|Heartbeat Health 🇺🇸 |Healthcare & Telehealth| 🎨 Bootstrap| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/heartbeat-health) |
-|Help Scout 🇺🇸 |Customer support|🖥 Kotlin, Ruby, Go, Python, Java, PHP 🎨 React, Gatsby ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/help-scout) |
-|Heroku 🇺🇸 |Infrastructure|🖥 Ruby, Go ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/heroku) |
-|Hims 🇺🇸 |Healthcare & Telehealth|🖥 Kotlin 🎨 React, Node.js ☁️ AWS, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/hims) |
-|Honeybadger 🇺🇸 |Infrastructure|🖥 Ruby, Rails, PHP, Java 🎨 React, JavaScript ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/honeybadger) |
-|Hopper 🇨🇦 |Travel|🖥 Scala, Ruby, Java 🎨 React, TypeScript ☁️ GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/hopper) |
-|HotJar 🇲🇹 |Website analytics|🖥 Python, Lua 🎨 JavaScript, Angular, jQuery, React ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/hotjar) |
-|ISARA Corporation 🇨🇦 |Cybersecurity & Quantum| 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/isara-corporation) |
-|Icertis 🇺🇸 |Enterprise & Contract|🖥 C#, .NET 🎨 Angular ☁️ Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/icertis) |
-|iGenius 🇮🇹 |AI & Analytics|🖥 Python, Java ☁️ Google Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/igenius) |
-|Included Health 🇺🇸 |Healthcare|🖥 Go, Ruby on Rails 🎨 React, TypeScript, NextJS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/included-health) |
-|Intercom 🇺🇸 |Customer support|🖥 Ruby, Golang, PHP, Python 🎨 JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/intercom) |
-|Iodine Software 🇺🇸 |Healthcare & AI|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/iodine-software) |
-|IonQ 🇺🇸 |Quantum Computing| ☁️ AWS, Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/ionq) |
-|Jobbatical 🇪🇪 |Jobs & career|🖥 Express, GraphQL, Node.js, JavaScript 🎨 JavaScript, React, ☁️ GCP| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/jobbatical) |
-|KPI6 🇮🇹 |Market Research & AI| ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/kpi6) |
-|Kaggle 🇺🇸 |Online community|🖥 R, Python, C++ 🎨 TypeScript ☁️ GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/kaggle) |
-|Katana 🇪🇪 |Manufacturing & ERP|🖥 Node.js 🎨 React ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/katana) |
-|Kentik 🇺🇸 |Network & Observability|🖥 Golang, C, Node.js ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/kentik) |
-|Kit (formerly ConvertKit) 🇺🇸 |Mailing service|🖥 Ruby, Rails 🎨 JavaScript, React ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/kit) |
-|Kitopi 🇦🇪 |Food & Cloud Kitchen|🖥 Java ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/kitopi) |
-|Kittl 🇩🇪 |Design & Collaboration|🖥 Node.js 🎨 Redux| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/kittl) |
-|Komoot 🇩🇪 |Travel|🖥 Kotlin, Node.js, Python, Java, Ruby 🎨 React, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/komoot) |
-|Koru Kids 🇬🇧 |Childcare & Marketplace| 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/koru-kids) |
-|Kyruus 🇺🇸 |Healthcare & Scheduling| ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/kyruus) |
-|Labelbox 🇺🇸 |AI & Data Labeling| ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/labelbox) |
-|LetsGetChecked 🇺🇸 |Healthcare & Testing|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/letsgetchecked) |
-|Lighthouse 🇺🇸 |Hospitality & Analytics|🖥 Node.js 🎨 React, JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/lighthouse) |
-|Linux Foundation 🇺🇸 |Operating Systems|🖥 Serverless Framework, Node.js, Golang, Python, Ruby 🎨 Angular, TypeScript, JavaScript ☁️ AWS| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/linux-foundation) |
-|Loft Labs 🇺🇸 |Kubernetes & Platform|🖥 Golang, Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/loft-labs) |
-|Logikcull 🇺🇸 |LegalTech & eDiscovery|🖥 Java ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/logikcull) |
-|Luxoft 🇨🇭 |Custom software development|🖥 Java, Kotlin, Spring Framework, PHP, Python, .NET, C#, Node.js 🎨 Angular, TypeScript, JavaScript ☁️ AWS, Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/luxoft) |
-|Lydia 🇫🇷 |FinTech & Payments|🖥 Python, Java| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/lydia) |
-|MailerLite 🇱🇹 |Mailing service|🖥 PHP 🎨 JavaScript, ReactJS, VueJS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/mailerlite) |
-|MapBox 🇺🇸 |Maps|🖥 Node.js, Express, JavaScript, C++, Qt 🎨 JavaScript, React, TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mapbox) |
-|Marigold 🇺🇸 |Marketing & CRM| 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/marigold) |
-|Mechanical Orchard 🇺🇸 |Enterprise & Modernization|🖥 Java, Python, Elixir, Rust, Golang| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mechanical-orchard) |
-|Medallion 🇺🇸 |Healthcare & Compliance|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/medallion) |
-|Mentalyc 🇺🇸 |Healthcare & AI|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mentalyc) |
-|MessageBird 🇳🇱 |Communication & API|🖥 Golang 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/messagebird) |
-|Metis 🇮🇱 |DevOps & Observability|🖥 Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/metis) |
-|Mindesk 🇺🇸 |VR & Design Software|🖥 Python, JavaScript, PHP, Django, WordPress 🎨 React| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mindesk) |
-|Miro 🇺🇸 |Collaboration Software|🖥 Java, Python 🎨 JavaScript, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/miro) |
-|Modelwise 🇩🇪 |Industrial & AI|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/modelwise) |
-|Mon Ami 🇺🇸 |Healthcare & SaaS|🖥 Ruby, Rails, JavaScript 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mon-ami) |
-|Mondoo 🇺🇸 |Cybersecurity & Compliance| 🎨 React, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mondoo) |
-|MongoDB 🇺🇸 |Databases & tools|🖥 Golang, Python, Dart, C#, C++ 🎨 TypeScript ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mongodb) |
-|Monzo 🇬🇧 |FinTech & Banking|🖥 Golang ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/monzo) |
-|Mozilla 🇺🇸 |Browsers|🖥 C++, Rust, Python 🎨 React, JavaScript, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/mozilla) |
-|Musixmatch 🇮🇹 |Music & Data|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/musixmatch) |
-|Naologic 🇺🇸 |No-code|🖥 Node.js, Golang, TypeScript 🎨 Angular, TypeScript ☁️ Azure, AWS, GCP| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/naologic) |
-|Neko Health 🇸🇪 |Healthcare & AI|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/neko-health) |
-|Netguru 🇵🇱 |Custom software development|🖥 Python, Node.js, Ruby, Rails, Elixir, Java, .NET, WordPress, PHP, Golang, 🎨 JavaScript, React, Angular, TypeScript, Vue.js ☁️ Azure, AWS, GCP| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/netguru) |
-|Netlify 🇺🇸 |Infrastructure|🖥 Go, JavaScript 🎨 TypeScript, React| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/netlify) |
-|Nexla 🇺🇸 |Data & Integration|🖥 Python, Javascript ☁️ AWS, GCP, Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/nexla) |
-|Nextdoor 🇺🇸 |Social Media|🖥 Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/nextdoor) |
-|NinjaOne 🇺🇸 |IT & Management| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/ninjaone) |
-|Noon 🇦🇪 |Ecommerce & Marketplace|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/noon) |
-|Northbeam 🇺🇸 |Marketing & Analytics|🖥 Django, Python, JavaScript 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/northbeam) |
-|Nozbe 🇵🇱 |Productivity tool|🖥 JavaScript, Python 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/nozbe) |
-|npm 🇺🇸 |Infrastructure|🖥 Node.js, JavaScript, Golang, Ruby, Rails 🎨 JavaScript, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/npm) |
-|Nutrient (formerly PSPDFKit) 🇺🇸 |Infrastructure|🖥 Elixir, Ruby, Rails, C++, Node.js 🎨 TypeScript, React, Next.js ☁️ AWS, Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/nutrient) |
-|OfferFit 🇺🇸 |Marketing & AI| 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/offerfit) |
-|OnTruck 🇪🇸 |Logistics & AI|🖥 Python ☁️ Google Analytics| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/ontruck) |
-|OpenGov 🇺🇸 |GovTech & Cloud| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/opengov) |
-|Orum 🇺🇸 |FinTech & Payments|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/orum) |
-|PerfectScale 🇺🇸 |Kubernetes & DevOps|🖥 Golang| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/perfectscale) |
-|Personio 🇩🇪 |HR & HRTech| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/personio) |
-|Pimloc 🇬🇧 |Video & Privacy| 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/pimloc) |
-|Pismo 🇧🇷 |FinTech & Banking| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/pismo) |
-|Plentific 🇬🇧 |PropTech & Management|🖥 PHP, JavaScript 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/plentific) |
-|Potentially 🇬🇧 |EdTech|🖥 Kotlin, Spring Framework, Java, PHP 🎨 Angular, TypeScript ☁️ AWS| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/potentially) |
-|Prezi 🇭🇺 |Presentation & SaaS|🖥 Scala, Python 🎨 JavaScript, React, Vue.js, Svelte| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/prezi) |
-|Prezly 🇧🇪 |Public Relations|🖥 PHP, Symfony 🎨 React, JavaScript, TypeScript, NextJS ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/prezly) |
-|Primer.io 🇬🇧 |FinTech & Payments|🖥 Node.js, JavaScript, TypeScript 🎨 React, JavaScript, TypeScript, Vue.js, Svelte| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/primerio) |
-|Process Street 🇺🇸 |Workflow & Automation|🖥 Scala 🎨 Angular, React ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/process-street) |
-|Prodly 🇺🇸 |DevOps & Salesforce| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/prodly) |
-|Puppet 🇺🇸 |Infrastructure|🖥 Golang ☁️ GCP, AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/puppet) |
-|Qatalog 🇬🇧 |Collaboration & Workplace|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/qatalog) |
-|Qonto 🇫🇷 |Fintech & Banking|🖥 Golang, Ruby, Python 🎨 EmberJS, JavaScript, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/qonto) |
-|Qualio 🇺🇸 |Healthcare & Compliance|🖥 JavaScript, Node.js ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/qualio) |
-|raidboxes 🇩🇪 |WordPress & Hosting|🖥 PHP, Laravel, WordPress 🎨 TypeScript, JavaScript, Tailwind, Storybook, Vue.js, Nuxt.js| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/raidboxes) |
-|Rasa 🇺🇸 |AI & Chatbots|🖥 Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/rasa) |
-|ReLOG3P SRL 🇮🇹 |Logistics & Sustainability| ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/relog3p-srl) |
-|Red Sift 🇬🇧 |Cybersecurity & Email| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/red-sift) |
-|RedHat 🇺🇸 |Operating Systems|🖥 Java, Spring Framework, Gradle, Kafka, Red Hat AMQ, Apache ActiveMQ, Swagger 🎨 React,| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/redhat) |
-|Remote 🇺🇸 |HR & Global Employment|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/remote) |
-|Revolut 🇬🇧 |Fintech & Banking|🖥 Python, Node.js, Java 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/revolut) |
-|Rows 🇵🇹 |Productivity & Collaboration|🖥 Java, Kotlin, Python 🎨 JavaScript, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/rows) |
-|SLAY 🇩🇪 |Fashion & AI|🖥 TypeScript 🎨 TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/slay) |
-|SOPHiA GENETICS 🇨🇭 |Healthcare & Genomics| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/sophia-genetics) |
-|SUSE 🇩🇪 |Operating Systems|🖥 Python, Django, C, Golang 🎨 JavaScript, jQuery, ☁️ AWS, Azure, GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/suse) |
-|SariSuki 🇵🇭 |Ecommerce & Social|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/sarisuki) |
-|Sauce Labs 🇺🇸 |Testing & QA|🖥 Javascript ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/sauce-labs) |
-|Seon 🇭🇺 |FinTech & Fraud|🖥 Python| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/seon) |
-|SerpApi 🇺🇸 |API & Search|🖥 Ruby, Rails, Node.js, Python, Golang 🎨 JavaScript ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/serpapi) |
-|Shopfully 🇮🇹 |Retail & Digital Flyers|🖥 PHP ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/shopfully) |
-|Shopify 🇺🇸 |E-commerce|🖥 Ruby, Rails, GraphQL, Java 🎨 Typescript, React ☁️ GCP| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/shopify) |
-|Signaturit Solutions 🇪🇸 |LegalTech & eSignature|🖥 PHP ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/signaturit-solutions) |
-|Sketch 🏡 |Design|🖥 Elixir, GraphQL, C++, Phoenix, Python, Golang 🎨 JavaScript, React, ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/sketch) |
-|Slite 🇫🇷 |Project management|🖥 JavaScript, TypeScript, GraphQL 🎨 JavaScript, TypeScript| ✅ | ❌ |[ℹ️](https://europeanremote.com/teams/slite) |
-|Snyk 🇺🇸 |Cybersecurity & DevOps|🖥 Python, Ruby| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/snyk) |
-|SoftwareMill 🇵🇱 |Custom software development|🖥 Scala, Java, Spring Framework, Akka, Kotlin 🎨 JavaScript, TypeScript, React, Angular ☁️ AWS, GCP| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/softwaremill) |
-|Somatus 🇺🇸 |Healthcare & Kidney Care|🖥 Python, R ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/somatus) |
-|SportsVisio 🇺🇸 |Sports & Analytics|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/sportsvisio) |
-|StackOverflow 🇺🇸 |Online community|🖥 C#, .NET, TypeScript| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/stackoverflow) |
-|Startup Bakery 🇮🇹 |Startup Studio & SaaS|🖥 Node.js, Python, Java, Scala ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/startup-bakery) |
-|Stax 🇺🇸 |FinTech & Payments| 🎨 JavaScript ☁️ Cloudflare| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/stax) |
-|Strapi 🇫🇷 |CMS & Developer Tools|🖥 Node.js, TypeScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/strapi) |
-|StreamElements 🇮🇱 |Media & Content Creation|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/streamelements) |
-|Stripe 🇺🇸 |Online payments|🖥 Ruby, Scala, Go, GraphQL 🎨 React, Flow ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/stripe) |
-|Super Dispatch 🇺🇸 |Logistics & Auto Transport|🖥 Java| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/super-dispatch) |
-|Sword Health 🇺🇸 |Healthcare & Digital Therapy|🖥 Golang| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/sword-health) |
-|Synthego 🇺🇸 |Biotech & CRISPR|🖥 Python, Salesforce CPQ ☁️ Cloudflare| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/synthego) |
-|Synthesia 🇬🇧 |AI & Video|🖥 PHP, TypeScript 🎨 React ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/synthesia) |
-|Syrup 🇺🇸 |Retail & AI|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/syrup) |
-|Talent Garden 🇮🇹 |Coworking & Education|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/talent-garden) |
-|Talkable 🇺🇸 |Marketing|🖥 Ruby, Rails 🎨 React, TypeScript, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/talkable) |
-|Talkdesk 🇺🇸 |Communication & Contact Center| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/talkdesk) |
-|Taxdoo 🇩🇪 |Tax & Compliance| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/taxdoo) |
-|Tenable 🇺🇸 |Cybersecurity & Vulnerability| 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/tenable) |
-|Tentacle 🇩🇪 |Audio & Video Tech|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/tentacle) |
-|Tessian 🇬🇧 |Cybersecurity & Email| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/tessian) |
-|Thinkinside 🇮🇹 |IoT & Location Tech|🖥 Java| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/thinkinside) |
-|thoughtbot 🇺🇸 |Design & Development|🖥 Ruby, Rails, Golang, Elixir 🎨 React, JavaScript ☁️ AWS| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/thoughtbot) |
-|Tilt 🇺🇸 |FinTech & Banking|🖥 C# 🎨 React, jQuery ☁️ Azure| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/tilt) |
-|Toggl 🇪🇪 |Time tracking|🖥 Golang, Ruby 🎨 JavaScript ☁️ GCP| ✅ | ✅ |[ℹ️](https://europeanremote.com/teams/toggl) |
-|Travis 🇩🇪 |Infrastructure|🖥 Golang, Ruby 🎨 JavaScript, Ember.js ☁️ Heroku| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/travis) |
-|Treatwell 🇬🇧 |Beauty & Booking|🖥 Node.js 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/treatwell) |
-|Treehouse Games 🇺🇸 |Gaming & Entertainment|🖥 Python, Java, Golang, Node.js| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/treehouse-games) |
-|Trello 🇺🇸 |Project management|🖥 Node.js 🎨 JavaScript, CoffeeScript ☁️ AWS CloudFront CDN| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/trello) |
-|TuneIn 🇺🇸 |Media & Streaming|🖥 ASP.NET 🎨 Next.js, jQuery ☁️ Google Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/tunein) |
-|Tyk 🇬🇧 |Infrastructure|🖥 Golang 🎨 React, JavaScript, TypeScript ☁️ AWS, Azure, OpenShift| ❌ | ✅ |[ℹ️](https://europeanremote.com/teams/tyk) |
-|Uhuru Network 🇺🇸 |Marketing|🖥 Node.js, Express, JavaScript 🎨 Next.js, React, TypeScript ☁️ AWS, Heroku| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/uhuru-network) |
-|Unifonic 🇿🇦 |Communication & CPaaS| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/unifonic) |
-|Unobravo 🇮🇹 |Healthcare & Mental Health| 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/unobravo) |
-|Upswot 🇺🇸 |Technology|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/upswot) |
-|UrbanFootprint 🇺🇸 |Climate & Urban Planning|🖥 Python, TypeScript ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/urbanfootprint) |
-|VMware 🇺🇸 |Infrastructure|🖥 Golang, Java, Kotlin, JavaScript, Ruby| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/vmware) |
-|Vectra 🇺🇸 |Cybersecurity & NDR|🖥 Java, Apex, JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/vectra) |
-|Venly 🇧🇪 |Blockchain & Web3|🖥 Java, C# 🎨 Angular, JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/venly) |
-|Vercel 🇺🇸 |Infrastructure|🖥 JavaScript 🎨 Next.js, React, TypeScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/vercel) |
-|Vivid 🇩🇪 |FinTech & Banking|🖥 Golang, Java, Kotlin| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/vivid) |
-|Voxie 🇺🇸 |Marketing & SMS| 🎨 JavaScript| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/voxie) |
-|Webflow 🇺🇸 |No-Code & Web Builder|🖥 Node.js 🎨 React ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/webflow) |
-|Wellhub 🇺🇸 |Wellness & Benefits|🖥 Golang| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/wellhub) |
-|Workato 🇺🇸 |Automation & iPaaS| ☁️ Cloud| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/workato) |
-|Yokoy 🇨🇭 |FinTech & Expense|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/yokoy) |
-|Zapier 🇺🇸 |Automation|🖥 Python, Django, Node.js, RabbitMQ, Kafka, Golang 🎨 React, JavaScript ☁️ AWS| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/zapier) |
-|ZenBusiness 🇺🇸 |Legal & Business Formation|| ❌ | ❌ |[ℹ️](https://europeanremote.com/teams/zenbusiness) |
 
+Remote-friendly software companies that hire people in Europe. This list mirrors the directory at [europeanremote.com](https://europeanremote.com/teams), where every company has a page with its tech stack, benefits, work mode and the countries it hires from.
 
+The list has 228 companies. "Hiring now" marks the 99 companies that had remote roles open to people in Europe when the list was last checked, on 14 October 2026. Every company is checked once a month, and companies that shut down or were absorbed into another company are removed.
 
+[Subscribe to the job alerts](https://europeanremote.com/alerts) to get a weekly email with remote jobs open to people in Europe.
 
-📨 Subscribe to the [job alerts](https://europeanremote.com/alerts) and get weekly selected opportunities straight into your inbox:
-* [🐍 Python](https://europeanremote.com/alerts/python) - jobs for Python (Django, Flask) devs but also for ML engineers and data scientists
-* [☁️ DevOps](https://europeanremote.com/alerts/devops) - jobs for DevOps engineers (AWS, Azure, GCP, etc.)
-* [🖥 Back-end JavaScript](https://europeanremote.com/alerts/backend-javascript) - jobs with JavaScript/TypeScript on the back-end (Node.js, etc.) and also for the full-stack JS devs
-* [🎨 Front-end](https://europeanremote.com/alerts/front-end) - jobs for front-end developers (JavaScript/TypeScript, React, Angular, Vue.js, Backbone, Ember, etc.)
-* [🖥 Java & JVM](https://europeanremote.com/alerts/jvm) - back-end jobs using Java, Kotlin, Scala, Groovy, etc.
-* [🧙‍♀️ product management](https://europeanremote.com/alerts/product-management) - jobs for product managers/owners, head of X management roles
-* [🎨 UI/UX design](https://europeanremote.com/alerts/ui-ux-design) - UI/UX design opportunities
-* [🖥 PHP](https://europeanremote.com/alerts/php) - jobs for PHP developers (Symfony, Laravel, Cake, plain PHP, and WordPress)
-* [🖥 C# & .NET](https://europeanremote.com/alerts/dot-net) - jobs for .NET & C# devs
-* [🖥 Ruby & Rails](https://europeanremote.com/alerts/ruby-rails) - jobs for Ruby, RoR, Sinatra devs
-* [📱mobile dev](https://europeanremote.com/alerts/mobile) - jobs for mobile developers (Swift/iOS, Kotlin/Android but also hybrid tools like React Native, Flutter, Ionic, Xamarin)
-* [⚒️ testing & QA](https://europeanremote.com/alerts/qa-testing) - jobs for manual and automated QA engineers/testers (Selenium, etc.)
-* [🦫 Golang](https://europeanremote.com/alerts/golang) - jobs for Go developers
+To add a company or correct an entry, read [CONTRIBUTING.md](CONTRIBUTING.md) or write to hello@europeanremote.com.
 
-
-European Remote is available in multiple language versions:
-
-* [English](https://europeanremote.com/teams),
-* [Polish / polski](https://europeanremote.com/pl/zespoly),
-* [Russian / русский](https://europeanremote.com/ru/komandy),
-* [Ukrainian / українська](https://europeanremote.com/ua/komandy). 
+| Company | Headquarters | Domain | Work mode | Tech stack | Salary transparency | Global salary | Hiring now |
+| ------- | ------------ | ------ | --------- | ---------- | :-----------------: | :-----------: | :--------: |
+| [1Password](https://europeanremote.com/teams/1password) | Canada | Cybersecurity | Fully remote | Golang, React, TypeScript, AWS |  |  | Yes |
+| [2hire](https://europeanremote.com/teams/2hire) | Italy | Automotive & Mobility | Hybrid remote | Python, C, C++, React, TypeScript, AWS |  |  |  |
+| [360Learning](https://europeanremote.com/teams/360learning) | France | EdTech | Fully remote | AWS |  |  | Yes |
+| [37signals](https://europeanremote.com/teams/basecamp) | No office | Project management | Fully remote | Ruby, Rails |  | Yes |  |
+| [AbsenceSoft](https://europeanremote.com/teams/absencesoft) | United States | HR & Recruitment | Hybrid remote |  |  |  |  |
+| [Acante](https://europeanremote.com/teams/acante) | United States | Security | Hybrid remote | Java, Golang, React, Node.js, GraphQL, PostgreSQL, MongoDB, AWS |  |  |  |
+| [Adverity](https://europeanremote.com/teams/adverity) | Austria | Marketing | Hybrid remote | Python |  |  | Yes |
+| [Agile Lab](https://europeanremote.com/teams/agile-lab) | Italy | Databases & tools | Fully remote | Node.js, Java, Scala, TypeScript, Python, React, Azure, AWS and 1 more | Yes | Yes | Yes |
+| [Ahrefs](https://europeanremote.com/teams/ahrefs) | Singapore | Marketing | Hybrid remote | Scala, OCaml, C++, React, Cloudflare |  | Yes |  |
+| [Airtable](https://europeanremote.com/teams/airtable) | United States | Databases & tools | Hybrid remote | Ruby, Node.js, JavaScript, TypeScript, AWS |  |  |  |
+| [Altilia](https://europeanremote.com/teams/altilia) | Italy | AI & Machine Learning | Fully remote | Python, Java, React, TypeScript, AWS, Azure |  |  | Yes |
+| [Angle Health](https://europeanremote.com/teams/angle-health) | United States | Healthcare | Hybrid remote | Python, JavaScript |  |  |  |
+| [Anomali](https://europeanremote.com/teams/anomali) | United States | Cybersecurity | Hybrid remote | Java, Python, JavaScript, AWS |  |  |  |
+| [Appfire](https://europeanremote.com/teams/appfire) | United States | Enterprise Software | Hybrid remote | Java, JavaScript, Node.js |  |  | Yes |
+| [Aptus.AI](https://europeanremote.com/teams/aptusai) | Italy | LegalTech | Hybrid remote | Python |  |  |  |
+| [Arduino](https://europeanremote.com/teams/arduino) | Italy | IoT & Hardware | Hybrid remote | C++, Python |  |  |  |
+| [Arista Networks](https://europeanremote.com/teams/arista-networks) | United States | DevOps | Hybrid remote | Python, C++, Golang, Java, JavaScript, AWS |  |  | Yes |
+| [AssemblyAI](https://europeanremote.com/teams/assemblyai) | United States | AI tools | Hybrid remote | Python, Java, Scala, Kotlin |  |  |  |
+| [Atlassian](https://europeanremote.com/teams/atlassian) | Australia | Collaboration | Fully remote | Java, AWS |  |  | Yes |
+| [Aula Education](https://europeanremote.com/teams/aula-education) | United Kingdom | EdTech | Fully remote | JavaScript, Node.js, React, AWS | Yes | Yes |  |
+| [Aura Company](https://europeanremote.com/teams/aura-company) | United States | Cybersecurity | Hybrid remote | JavaScript |  |  | Yes |
+| [AUTO1 Group](https://europeanremote.com/teams/auto1-group) | Germany | Marketplace | Hybrid remote | Java |  |  | Yes |
+| [Automattic](https://europeanremote.com/teams/automattic) | United States | Content management | Fully remote | PHP, WordPress, JavaScript, AWS |  | Yes | Yes |
+| [Balsamiq](https://europeanremote.com/teams/balsamiq) | Italy | Design | Fully remote | Rails, Ruby, AWS |  |  |  |
+| [Baremetrics](https://europeanremote.com/teams/baremetrics) | United States | Enterprise Software | Fully remote | Ruby, Vue.js, TypeScript | Yes | Yes |  |
+| [BeReal](https://europeanremote.com/teams/bereal) | France | Social media | Hybrid remote | Java |  |  | Yes |
+| [Bevy](https://europeanremote.com/teams/bevy) | United States | Collaboration | Hybrid remote | Python |  |  |  |
+| [BillionToOne](https://europeanremote.com/teams/billiontoone) | United States | Healthcare | Hybrid remote | Python, Django, React, TypeScript |  |  |  |
+| [Bind](https://europeanremote.com/teams/bind) | United Kingdom | Collaboration | Fully remote | JavaScript, Node.js, TypeScript, React |  | Yes |  |
+| [Bird](https://europeanremote.com/teams/messagebird) | Netherlands | Communication | Fully remote | Golang, JavaScript |  |  |  |
+| [Bitwarden](https://europeanremote.com/teams/bitwarden) | United States | Cybersecurity | Hybrid remote | JavaScript, AWS |  |  | Yes |
+| [BlaBlaCar](https://europeanremote.com/teams/blablacar) | France | Logistics | Hybrid remote | Python |  |  |  |
+| [Blip](https://europeanremote.com/teams/blip) | Brazil | AI tools | Hybrid remote | Python |  |  |  |
+| [Block (formerly Square)](https://europeanremote.com/teams/block) | United States | FinTech | Fully remote | Python, Node.js, Java, Golang, Ruby, JavaScript, Azure |  |  | Yes |
+| [Buffer](https://europeanremote.com/teams/buffer) | No office | Social media | Fully remote | Node.js, Next.js, React, AWS | Yes |  | Yes |
+| [Buildkite](https://europeanremote.com/teams/buildkite) | Australia | DevOps | Fully remote | AWS |  |  | Yes |
+| [Cabify](https://europeanremote.com/teams/cabify) | Spain | Logistics | Hybrid remote | Golang, Elixir, Ruby, Java, React, TypeScript, AWS, GCP | Yes | Yes |  |
+| [Canonical](https://europeanremote.com/teams/canonical) | United Kingdom | Operating Systems | Fully remote | Python, Golang |  |  | Yes |
+| [CAST AI](https://europeanremote.com/teams/cast-ai) | United States | DevOps | Fully remote | Golang, Python, AWS, GCP, Azure |  |  | Yes |
+| [Castellum.ai](https://europeanremote.com/teams/castellumai) | United States | FinTech | Fully remote | Python |  |  |  |
+| [Celonis](https://europeanremote.com/teams/celonis) | Germany | Developer Tools | Hybrid remote | AWS |  |  | Yes |
+| [Channel99](https://europeanremote.com/teams/channel99) | United States | Marketing | Hybrid remote | Java |  |  |  |
+| [ChartMogul](https://europeanremote.com/teams/chartmogul) | Germany | Enterprise Software | Fully remote | Ruby, JavaScript, Python, Rails, Vue.js, TypeScript, AWS |  |  |  |
+| [Chili Piper](https://europeanremote.com/teams/chili-piper) | United States | Sales | Fully remote | Kotlin, Scala, Akka, Play, GCP |  |  |  |
+| [CircleCI](https://europeanremote.com/teams/circleci) | United States | DevOps | Hybrid remote | JavaScript |  |  | Yes |
+| [Clarity AI](https://europeanremote.com/teams/clarity-ai) | United States | Sustainability | Hybrid remote | Python, Java, AWS |  |  |  |
+| [Class Technologies](https://europeanremote.com/teams/class-technologies) | United States | EdTech | Fully remote | Node.js, JavaScript |  |  |  |
+| [Cloudbeds](https://europeanremote.com/teams/cloudbeds) | United States | Real Estate & Hospitality | Fully remote | PHP, Vue.js, React, AWS |  |  | Yes |
+| [Cloudera](https://europeanremote.com/teams/cloudera) | United States | Developer Tools | Hybrid remote | Java, TypeScript, Python, AWS |  |  | Yes |
+| [CoachHub](https://europeanremote.com/teams/coachhub) | Germany | HR & Recruitment | Fully remote | Python |  |  | Yes |
+| [Codacy](https://europeanremote.com/teams/codacy) | Portugal | Infrastructure | Fully remote | Scala, AWS | Yes |  | Yes |
+| [Cognism](https://europeanremote.com/teams/cognism) | United Kingdom | Sales | Hybrid remote |  |  |  |  |
+| [Collabora](https://europeanremote.com/teams/collabora) | United Kingdom | Custom software development | Fully remote | Python, Django, Rust, Java, C++ |  |  | Yes |
+| [ComeHome](https://europeanremote.com/teams/comehome) | United States | Real Estate & Hospitality | Fully remote | JavaScript, Node.js, TypeScript |  |  |  |
+| [Comehome](https://europeanremote.com/teams/comehome-srl) | Italy | Collaboration | Hybrid remote |  |  |  |  |
+| [commercetools](https://europeanremote.com/teams/commercetools) | Germany | E-commerce | Hybrid remote | Java, JavaScript, C#, .NET, PHP, AWS |  |  |  |
+| [Constructor.io](https://europeanremote.com/teams/constructorio) | United States | E-commerce | Fully remote | JavaScript, Node.js, AWS |  |  | Yes |
+| [Cribl](https://europeanremote.com/teams/cribl) | United States | DevOps | Fully remote | JavaScript, AWS |  |  | Yes |
+| [Datadog](https://europeanremote.com/teams/datadog) | United States | Infrastructure | Hybrid remote | Java, Golang, JavaScript, Java EE, PHP, Ruby, .NET, C# and 2 more |  |  | Yes |
+| [DeepL](https://europeanremote.com/teams/deepl) | Germany | AI tools | Hybrid remote | Python, Cloudflare |  |  |  |
+| [DexCare](https://europeanremote.com/teams/dexcare) | United States | Healthcare | Hybrid remote | JavaScript |  |  |  |
+| [DigitalOcean](https://europeanremote.com/teams/digitalocean) | United States | Infrastructure | Fully remote | Linux, Golang, Kubernetes, Python, React |  |  |  |
+| [Discourse](https://europeanremote.com/teams/discourse) | United States | Collaboration | Fully remote | Ruby, Rails, Ember.js |  |  |  |
+| [Docker](https://europeanremote.com/teams/docker) | United States | Infrastructure | Fully remote | Golang, C#, Swift, React, JavaScript, Electron |  |  | Yes |
+| [Doist](https://europeanremote.com/teams/doist) | Portugal | Project management | Fully remote | Python, Golang, React, ES6, AWS |  |  | Yes |
+| [DoiT International](https://europeanremote.com/teams/doit) | United States | Infrastructure | Fully remote | Golang, PHP, JavaScript, AWS, GCP |  |  | Yes |
+| [Domyn](https://europeanremote.com/teams/igenius) | Italy | AI tools | Hybrid remote | Python, Java, GCP |  |  | Yes |
+| [Dribbble](https://europeanremote.com/teams/dribbble) | United States | Marketplace | Fully remote | Ruby, Rails, JavaScript, Vue.js, AWS |  | Yes |  |
+| [DuckDuckGo](https://europeanremote.com/teams/duckduckgo) | United States | Search engine tools | Fully remote | C#, .NET, Kotlin, Swift, Golang, Perl | Yes | Yes | Yes |
+| [Eagle Eye Networks](https://europeanremote.com/teams/eagle-eye-networks) | United States | Cybersecurity | Hybrid remote |  |  |  |  |
+| [Elastic](https://europeanremote.com/teams/elastic) | Netherlands | Infrastructure | Fully remote | Java, JavaScript, TypeScript, React |  |  | Yes |
+| [Electreon](https://europeanremote.com/teams/electreon) | Israel | Logistics | Hybrid remote | Python |  |  |  |
+| [Epam](https://europeanremote.com/teams/epam) | United States | Custom software development | Hybrid remote | C#, Kotlin, Java, GraphQL, Ruby, Rails, Python, .NET and 8 more |  |  | Yes |
+| [Epic Games](https://europeanremote.com/teams/epic-games) | United States | Media & Entertainment | Hybrid remote | Node.js, JavaScript, C++, Golang, Python, Java, Kotlin, Scala and 4 more |  |  |  |
+| [Etsy](https://europeanremote.com/teams/etsy) | United States | Marketplace | Hybrid remote | PHP, Scala, AWS |  |  |  |
+| [Eukarya](https://europeanremote.com/teams/eukarya) | Japan | Design | Fully remote | AWS |  |  |  |
+| [Everli](https://europeanremote.com/teams/everli) | Italy | E-commerce | Fully remote | PHP, Laravel, Vue.js |  |  |  |
+| [Expedock](https://europeanremote.com/teams/expedock) | United States | Logistics | Fully remote | JavaScript |  |  |  |
+| [Expensify](https://europeanremote.com/teams/expensify) | United States | FinTech | Hybrid remote | PHP, C++, Java, JavaScript, React, AWS | Yes |  |  |
+| [Fever](https://europeanremote.com/teams/fever) | Spain | Media & Entertainment | Hybrid remote | Python, Flask, Django |  |  | Yes |
+| [Fiat Republic](https://europeanremote.com/teams/fiat-republic) | United Kingdom | FinTech | Hybrid remote |  |  |  |  |
+| [FitBark](https://europeanremote.com/teams/fitbark) | United States | IoT & Hardware | Hybrid remote |  |  |  |  |
+| [FloQast](https://europeanremote.com/teams/floqast) | United States | FinTech | Hybrid remote | Java, Golang, MongoDB, AWS |  |  |  |
+| [Flywire](https://europeanremote.com/teams/flywire) | United States | FinTech | Hybrid remote | Java, React |  |  |  |
+| [Folk](https://europeanremote.com/teams/folk) | France | Sales | Fully remote |  |  |  |  |
+| [Fornova](https://europeanremote.com/teams/fornova) | Israel | Real Estate & Hospitality | Fully remote |  |  |  |  |
+| [Found](https://europeanremote.com/teams/found) | United States | FinTech | Fully remote | Ruby, Rails, React, TypeScript |  |  |  |
+| [Garner Health](https://europeanremote.com/teams/garner-health) | United States | Healthcare | Hybrid remote |  |  |  |  |
+| [Ghost](https://europeanremote.com/teams/ghost) | No office | Content management | Fully remote | Node.js, Express, React, Handlebars |  |  | Yes |
+| [Gitbook](https://europeanremote.com/teams/gitbook) | United States | Project management | Fully remote | Node.js, JavaScript, React, TypeScript |  |  | Yes |
+| [GitGuardian](https://europeanremote.com/teams/gitguardian) | France | Cybersecurity | Hybrid remote | Python, Django, Golang, JavaScript, React, TypeScript, AWS |  |  | Yes |
+| [GitHub](https://europeanremote.com/teams/github) | United States | Infrastructure | Fully remote | .NET, C#, Ruby, Golang, JavaScript, TypeScript, Azure |  |  | Yes |
+| [GitLab](https://europeanremote.com/teams/gitlab) | United States | Infrastructure | Fully remote | Ruby, Rails, Vue.js, GCP, AWS | Yes |  | Yes |
+| [GOhiring](https://europeanremote.com/teams/gohiring) | Germany | HR & Recruitment | Fully remote | Ruby, Rails, Ember.js, React, JavaScript, AWS, Heroku |  |  | Yes |
+| [GoPro](https://europeanremote.com/teams/gopro) | United States | IoT & Hardware | Fully remote | Java, Python |  | Yes |  |
+| [GoStudent](https://europeanremote.com/teams/gostudent) | Austria | EdTech | Hybrid remote | Node.js, Golang, JavaScript, React, React Native, Azure |  |  | Yes |
+| [Grafana Labs](https://europeanremote.com/teams/grafana-labs) | United States | Infrastructure | Fully remote | Golang, Python, Ruby, Java, React, JavaScript, TypeScript, Azure and 2 more |  |  | Yes |
+| [Groupon](https://europeanremote.com/teams/groupon) | United States | E-commerce | Hybrid remote | Ruby, Rails, Node.js, Python, Ember.js |  |  |  |
+| [Gumroad](https://europeanremote.com/teams/gumroad) | United States | Marketplace | Fully remote | Ruby, Rails, JavaScript, React, AWS | Yes | Yes |  |
+| [H1](https://europeanremote.com/teams/h1) | United States | Healthcare | Hybrid remote | Python, Java, AWS |  |  |  |
+| [HashiCorp](https://europeanremote.com/teams/hashicorp) | United States | DevOps | Fully remote | Ruby, Rails, AWS |  |  |  |
+| [Heartbeat Health](https://europeanremote.com/teams/heartbeat-health) | United States | Healthcare | Fully remote | Bootstrap |  |  |  |
+| [Help Scout](https://europeanremote.com/teams/help-scout) | United States | Customer support | Fully remote | Kotlin, Ruby, Golang, Python, Java, PHP, React, Gatsby and 1 more | Yes | Yes |  |
+| [Heroku](https://europeanremote.com/teams/heroku) | United States | Infrastructure | Hybrid remote | Ruby, Golang, AWS |  |  |  |
+| [Hims](https://europeanremote.com/teams/hims) | United States | Healthcare | Fully remote | Kotlin, React, Node.js, AWS, GCP |  |  | Yes |
+| [Honeybadger](https://europeanremote.com/teams/honeybadger) | United States | Infrastructure | Fully remote | Ruby, Rails, PHP, Java, React, JavaScript, AWS | Yes | Yes |  |
+| [Hopper](https://europeanremote.com/teams/hopper) | Canada | Travel | Hybrid remote | Scala, Ruby, Java, React, TypeScript, GCP |  |  | Yes |
+| [Icertis](https://europeanremote.com/teams/icertis) | United States | LegalTech | Hybrid remote | C#, .NET, Angular, Azure |  |  | Yes |
+| [Included Health](https://europeanremote.com/teams/included-health) | United States | Healthcare | Hybrid remote | Golang, Rails, React, TypeScript, Next.js |  |  |  |
+| [Intercom](https://europeanremote.com/teams/intercom) | United States | Customer support | Hybrid remote | Ruby, Golang, PHP, Python, JavaScript, AWS |  |  |  |
+| [IonQ](https://europeanremote.com/teams/ionq) | United States | Technology | Hybrid remote | AWS, Azure |  |  |  |
+| [ISARA Corporation](https://europeanremote.com/teams/isara-corporation) | Canada | Cybersecurity | Hybrid remote | JavaScript |  |  |  |
+| [Jobbatical](https://europeanremote.com/teams/jobbatical) | Estonia | HR & Recruitment | Fully remote | Express, GraphQL, Node.js, JavaScript, React, GCP |  | Yes | Yes |
+| [Judi Health](https://europeanremote.com/teams/capital-rx) | United States | Healthcare | Fully remote |  |  |  |  |
+| [Kaggle](https://europeanremote.com/teams/kaggle) | United States | Collaboration | Fully remote | R, Python, C++, TypeScript, GCP |  |  |  |
+| [Katana](https://europeanremote.com/teams/katana) | Estonia | Enterprise Software | Fully remote | Node.js, React, AWS |  |  |  |
+| [Kentik](https://europeanremote.com/teams/kentik) | United States | DevOps | Hybrid remote | Golang, C, Node.js, AWS |  |  | Yes |
+| [Kit (formerly ConvertKit)](https://europeanremote.com/teams/kit) | United States | Communication | Fully remote | Ruby, Rails, JavaScript, React, AWS |  |  | Yes |
+| [Kitopi](https://europeanremote.com/teams/kitopi) | United Arab Emirates | E-commerce | Hybrid remote | Java, AWS |  |  |  |
+| [Kittl](https://europeanremote.com/teams/kittl) | Germany | Collaboration | Hybrid remote | Node.js, Redux |  |  |  |
+| [Koru Kids](https://europeanremote.com/teams/koru-kids) | United Kingdom | Marketplace | Hybrid remote | JavaScript |  |  | Yes |
+| [KPI6](https://europeanremote.com/teams/kpi6) | Italy | AI tools | Hybrid remote | AWS |  |  |  |
+| [Kyruus](https://europeanremote.com/teams/kyruus) | United States | Healthcare | Fully remote | AWS |  |  |  |
+| [Labelbox](https://europeanremote.com/teams/labelbox) | United States | AI tools | Hybrid remote | AWS |  |  |  |
+| [LetsGetChecked](https://europeanremote.com/teams/letsgetchecked) | United States | Healthcare | Hybrid remote |  |  |  |  |
+| [Lighthouse](https://europeanremote.com/teams/lighthouse) | United Kingdom | Real Estate & Hospitality | Hybrid remote | Node.js, React, JavaScript |  |  |  |
+| [Linux Foundation](https://europeanremote.com/teams/linux-foundation) | United States | Operating Systems | Fully remote | Serverless Framework, Node.js, Golang, Python, Ruby, Angular, TypeScript, JavaScript and 1 more |  | Yes | Yes |
+| [Lumenalta](https://europeanremote.com/teams/lumenalta) | United States | Custom software development | Fully remote | PHP, Python, Node.js, Java, Spring Framework, JavaScript, TypeScript, React and 1 more |  |  | Yes |
+| [Luxoft](https://europeanremote.com/teams/luxoft) | Switzerland | Custom software development | Hybrid remote | Java, Kotlin, Spring Framework, PHP, Python, .NET, C#, Node.js and 5 more |  |  | Yes |
+| [Lydia](https://europeanremote.com/teams/lydia) | France | FinTech | Hybrid remote | Python, Java |  |  |  |
+| [MailerLite](https://europeanremote.com/teams/mailerlite) | Lithuania | Communication | Fully remote | PHP, JavaScript, React, Vue.js | Yes | Yes | Yes |
+| [Mapbox](https://europeanremote.com/teams/mapbox) | United States | Maps | Hybrid remote | Node.js, Express, JavaScript, C++, Qt, React, TypeScript, AWS and 2 more |  |  | Yes |
+| [Marigold](https://europeanremote.com/teams/marigold) | United States | Marketing | Hybrid remote | JavaScript |  |  |  |
+| [Mechanical Orchard](https://europeanremote.com/teams/mechanical-orchard) | United States | Enterprise Software | Fully remote | Java, Python, Elixir, Rust, Golang |  |  |  |
+| [Medallion](https://europeanremote.com/teams/medallion) | United States | Healthcare | Fully remote |  |  |  |  |
+| [Mentalyc](https://europeanremote.com/teams/mentalyc) | United States | Healthcare | Fully remote |  |  |  |  |
+| [Miro](https://europeanremote.com/teams/miro) | United States | Collaboration | Hybrid remote | Java, Python, JavaScript, TypeScript |  |  |  |
+| [Modelwise](https://europeanremote.com/teams/modelwise) | Germany | AI tools | Fully remote |  |  |  |  |
+| [Mon Ami](https://europeanremote.com/teams/mon-ami) | United States | Healthcare | Hybrid remote | Ruby, Rails, JavaScript |  |  |  |
+| [Mondoo](https://europeanremote.com/teams/mondoo) | United States | Cybersecurity | Hybrid remote | React, TypeScript |  |  | Yes |
+| [MongoDB](https://europeanremote.com/teams/mongodb) | United States | Databases & tools | Hybrid remote | Golang, Python, Dart, C#, C++, TypeScript, AWS, Azure and 1 more |  |  | Yes |
+| [Monzo](https://europeanremote.com/teams/monzo) | United Kingdom | FinTech | Hybrid remote | Golang, AWS |  |  | Yes |
+| [Mozilla](https://europeanremote.com/teams/mozilla) | United States | Browsers | Hybrid remote | C++, Rust, Python, React, JavaScript, TypeScript, AWS |  |  | Yes |
+| [Musixmatch](https://europeanremote.com/teams/musixmatch) | Italy | Media & Entertainment | Hybrid remote |  |  |  |  |
+| [Naologic](https://europeanremote.com/teams/naologic) | United States | Automation | Fully remote | Node.js, Golang, TypeScript, Angular, Azure, AWS, GCP | Yes |  | Yes |
+| [Neko Health](https://europeanremote.com/teams/neko-health) | Sweden | Healthcare | Hybrid remote |  |  |  |  |
+| [Netguru](https://europeanremote.com/teams/netguru) | Poland | Custom software development | Hybrid remote | Python, Node.js, Ruby, Rails, Elixir, Java, .NET, WordPress and 10 more | Yes |  | Yes |
+| [Netlify](https://europeanremote.com/teams/netlify) | United States | Infrastructure | Fully remote | Golang, JavaScript, TypeScript, React | Yes |  |  |
+| [Nexla](https://europeanremote.com/teams/nexla) | United States | Developer Tools | Fully remote | Python, JavaScript, AWS, GCP, Azure |  |  |  |
+| [Nextdoor](https://europeanremote.com/teams/nextdoor) | United States | Social media | Hybrid remote | Python |  |  |  |
+| [NinjaOne](https://europeanremote.com/teams/ninjaone) | United States | Enterprise Software | Hybrid remote |  |  |  | Yes |
+| [Noon](https://europeanremote.com/teams/noon) | United Arab Emirates | E-commerce | Hybrid remote |  |  |  |  |
+| [Northbeam](https://europeanremote.com/teams/northbeam) | United States | Marketing | Hybrid remote | Django, Python, JavaScript |  |  |  |
+| [Nozbe](https://europeanremote.com/teams/nozbe) | Poland | Productivity tool | Fully remote | JavaScript, Python, React, AWS | Yes | Yes |  |
+| [Nutrient (formerly PSPDFKit)](https://europeanremote.com/teams/nutrient) | United States | Infrastructure | Fully remote | Elixir, Ruby, Rails, C++, Node.js, TypeScript, React, Next.js and 2 more |  |  | Yes |
+| [Ontruck](https://europeanremote.com/teams/ontruck) | Spain | Logistics | Hybrid remote | Python, Google Analytics |  |  |  |
+| [OpenGov](https://europeanremote.com/teams/opengov) | United States | DevOps | Hybrid remote |  |  |  |  |
+| [Personio](https://europeanremote.com/teams/personio) | Germany | HR & Recruitment | Hybrid remote |  |  |  |  |
+| [Pimloc](https://europeanremote.com/teams/pimloc) | United Kingdom | Cybersecurity | Hybrid remote | JavaScript |  |  |  |
+| [Pismo](https://europeanremote.com/teams/pismo) | Brazil | FinTech | Hybrid remote |  |  |  | Yes |
+| [Plentific](https://europeanremote.com/teams/plentific) | United Kingdom | Real Estate & Hospitality | Hybrid remote | PHP, JavaScript |  |  | Yes |
+| [Potentially](https://europeanremote.com/teams/potentially) | United Kingdom | EdTech | Fully remote | Kotlin, Spring Framework, Java, PHP, Angular, TypeScript, AWS | Yes |  |  |
+| [Prezi](https://europeanremote.com/teams/prezi) | Hungary | Productivity tool | Fully remote | Scala, Python, JavaScript, React, Vue.js, Svelte |  |  | Yes |
+| [Prezly](https://europeanremote.com/teams/prezly) | Belgium | Marketing | Fully remote | PHP, Symfony, React, JavaScript, TypeScript, Next.js, AWS |  |  |  |
+| [Primer.io](https://europeanremote.com/teams/primerio) | United Kingdom | FinTech | Fully remote | Node.js, JavaScript, TypeScript, React, Vue.js, Svelte |  |  | Yes |
+| [Process Street](https://europeanremote.com/teams/process-street) | United States | Automation | Fully remote | Scala, Angular, React, AWS |  |  | Yes |
+| [Prodly](https://europeanremote.com/teams/prodly) | United States | DevOps | Hybrid remote |  |  |  |  |
+| [Qonto](https://europeanremote.com/teams/qonto) | France | FinTech | Fully remote | Golang, Ruby, Python, Ember.js, JavaScript, TypeScript, AWS |  |  | Yes |
+| [Qualio](https://europeanremote.com/teams/qualio) | United States | Healthcare | Fully remote | JavaScript, Node.js |  |  | Yes |
+| [raidboxes](https://europeanremote.com/teams/raidboxes) | Germany | Content management | Hybrid remote | PHP, Laravel, WordPress, TypeScript, JavaScript, Tailwind, Storybook, Vue.js and 1 more | Yes |  | Yes |
+| [Rasa](https://europeanremote.com/teams/rasa) | United States | AI tools | Fully remote | Python |  |  |  |
+| [Red Sift](https://europeanremote.com/teams/red-sift) | United Kingdom | Cybersecurity | Hybrid remote |  |  |  | Yes |
+| [RedHat](https://europeanremote.com/teams/redhat) | United States | Operating Systems | Hybrid remote | Java, Spring Framework, Gradle, Kafka, Red Hat AMQ, ActiveMQ, Swagger, React |  |  | Yes |
+| [Remote](https://europeanremote.com/teams/remote) | United States | HR & Recruitment | Fully remote |  |  |  | Yes |
+| [Revolut](https://europeanremote.com/teams/revolut) | United Kingdom | FinTech | Hybrid remote | Python, Node.js, Java, JavaScript |  |  |  |
+| [Sauce Labs](https://europeanremote.com/teams/sauce-labs) | United States | Developer Tools | Hybrid remote | JavaScript |  |  | Yes |
+| [Seon](https://europeanremote.com/teams/seon) | United States | FinTech | Hybrid remote | Python |  |  |  |
+| [SerpApi](https://europeanremote.com/teams/serpapi) | United States | Developer Tools | Fully remote | Ruby, Rails, Node.js, Python, Golang, JavaScript, AWS | Yes | Yes | Yes |
+| [Shopfully](https://europeanremote.com/teams/shopfully) | Italy | E-commerce | Hybrid remote | PHP, AWS |  |  | Yes |
+| [Shopify](https://europeanremote.com/teams/shopify) | United States | E-commerce | Fully remote | Ruby, Rails, GraphQL, Java, TypeScript, React, GCP |  |  | Yes |
+| [Signaturit Solutions](https://europeanremote.com/teams/signaturit-solutions) | Spain | LegalTech | Hybrid remote | PHP |  |  |  |
+| [Sketch](https://europeanremote.com/teams/sketch) | No office | Design | Fully remote | Elixir, GraphQL, C++, Phoenix, Python, Golang, JavaScript, React and 1 more |  |  |  |
+| [Slite](https://europeanremote.com/teams/slite) | France | Project management | Fully remote | JavaScript, TypeScript, GraphQL | Yes |  | Yes |
+| [Snyk](https://europeanremote.com/teams/snyk) | United States | Cybersecurity | Hybrid remote | Python, Ruby |  |  | Yes |
+| [SoftwareMill](https://europeanremote.com/teams/softwaremill) | Poland | Custom software development | Fully remote | Scala, Java, Spring Framework, Akka, Kotlin, JavaScript, TypeScript, React and 3 more | Yes | Yes | Yes |
+| [Somatus](https://europeanremote.com/teams/somatus) | United States | Healthcare | Hybrid remote | Python, R, AWS |  |  |  |
+| [SOPHiA GENETICS](https://europeanremote.com/teams/sophia-genetics) | Switzerland | Healthcare | Hybrid remote |  |  |  | Yes |
+| [SportsVisio](https://europeanremote.com/teams/sportsvisio) | United States | Media & Entertainment | Fully remote |  |  |  |  |
+| [StackOverflow](https://europeanremote.com/teams/stackoverflow) | United States | Collaboration | Fully remote | C#, .NET, TypeScript |  | Yes | Yes |
+| [Startup Bakery](https://europeanremote.com/teams/startup-bakery) | Italy | Technology | Hybrid remote | Node.js, Python, Java, Scala |  |  |  |
+| [Stax](https://europeanremote.com/teams/stax) | United States | FinTech | Hybrid remote | JavaScript, Cloudflare |  |  |  |
+| [Strapi](https://europeanremote.com/teams/strapi) | France | Developer Tools | Fully remote | Node.js, TypeScript |  |  |  |
+| [StreamElements](https://europeanremote.com/teams/streamelements) | Israel | Media & Entertainment | Fully remote |  |  |  |  |
+| [Stripe](https://europeanremote.com/teams/stripe) | United States | FinTech | Hybrid remote | Ruby, Scala, Golang, GraphQL, React, Flow, AWS |  |  | Yes |
+| [Super Dispatch](https://europeanremote.com/teams/super-dispatch) | United States | Logistics | Fully remote | Java |  |  |  |
+| [SUSE](https://europeanremote.com/teams/suse) | Germany | Operating Systems | Hybrid remote | Python, Django, C, Golang, JavaScript, jQuery, AWS, Azure and 1 more |  |  |  |
+| [Sword Health](https://europeanremote.com/teams/sword-health) | United States | Healthcare | Fully remote | Golang |  |  | Yes |
+| [Synthego](https://europeanremote.com/teams/synthego) | United States | Healthcare | Hybrid remote | Python, Salesforce CPQ, Cloudflare |  |  |  |
+| [Synthesia](https://europeanremote.com/teams/synthesia) | United Kingdom | AI tools | Hybrid remote | PHP, TypeScript, React, AWS | Yes | Yes | Yes |
+| [Talent Garden](https://europeanremote.com/teams/talent-garden) | Italy | EdTech | Hybrid remote |  |  |  |  |
+| [Talkable](https://europeanremote.com/teams/talkable) | United States | Marketing | Fully remote | Ruby, Rails, React, TypeScript, JavaScript, AWS |  |  |  |
+| [Talkdesk](https://europeanremote.com/teams/talkdesk) | United States | Communication | Hybrid remote |  |  |  | Yes |
+| [Taxdoo](https://europeanremote.com/teams/taxdoo) | Germany | FinTech | Fully remote |  |  |  |  |
+| [Tenable](https://europeanremote.com/teams/tenable) | United States | Cybersecurity | Hybrid remote | JavaScript |  |  | Yes |
+| [Tentacle](https://europeanremote.com/teams/tentacle) | Germany | Media & Entertainment | Hybrid remote |  |  |  |  |
+| [ThinkIN](https://europeanremote.com/teams/thinkinside) | Italy | IoT & Hardware | Hybrid remote | Java |  |  |  |
+| [thoughtbot](https://europeanremote.com/teams/thoughtbot) | United States | Design | Fully remote | Ruby, Rails, Golang, Elixir, React, JavaScript, AWS | Yes | Yes |  |
+| [Tilt](https://europeanremote.com/teams/tilt) | United States | FinTech | Fully remote | C#, React, jQuery, Azure |  |  |  |
+| [Toggl](https://europeanremote.com/teams/toggl) | Estonia | Productivity tool | Fully remote | Golang, Ruby, JavaScript, GCP | Yes | Yes | Yes |
+| [Travis](https://europeanremote.com/teams/travis) | Germany | Infrastructure | Fully remote | Golang, Ruby, JavaScript, Ember.js, Heroku |  | Yes |  |
+| [Treatwell](https://europeanremote.com/teams/treatwell) | United Kingdom | Marketplace | Hybrid remote | Node.js, JavaScript |  |  | Yes |
+| [Treehouse Games](https://europeanremote.com/teams/treehouse-games) | United States | Media & Entertainment | Fully remote | Python, Java, Golang, Node.js |  |  |  |
+| [TuneIn](https://europeanremote.com/teams/tunein) | United States | Media & Entertainment | Fully remote | ASP.NET, Next.js, jQuery, GCP |  |  |  |
+| [Tyk](https://europeanremote.com/teams/tyk) | United Kingdom | Infrastructure | Fully remote | Golang, React, JavaScript, TypeScript, AWS, Azure, OpenShift |  | Yes | Yes |
+| [Unifonic](https://europeanremote.com/teams/unifonic) | Saudi Arabia | Communication | Hybrid remote |  |  |  | Yes |
+| [Unobravo](https://europeanremote.com/teams/unobravo) | Italy | Healthcare | Hybrid remote | JavaScript |  |  |  |
+| [vCluster Labs](https://europeanremote.com/teams/vcluster-labs) | United States | DevOps | Fully remote | Golang, Python |  |  | Yes |
+| [Vectra](https://europeanremote.com/teams/vectra) | United States | Cybersecurity | Hybrid remote | Java, Apex, JavaScript |  |  |  |
+| [Venly](https://europeanremote.com/teams/venly) | Belgium | Blockchain | Hybrid remote | Java, C#, Angular, JavaScript |  |  |  |
+| [Vercel](https://europeanremote.com/teams/vercel) | United States | Infrastructure | Hybrid remote | JavaScript, Next.js, React, TypeScript, AWS |  |  | Yes |
+| [Vivid](https://europeanremote.com/teams/vivid) | Germany | FinTech | Hybrid remote | Golang, Java, Kotlin |  |  | Yes |
+| [VMware](https://europeanremote.com/teams/vmware) | United States | Infrastructure | Hybrid remote | Golang, Java, Kotlin, JavaScript, Ruby |  |  | Yes |
+| [Voxie](https://europeanremote.com/teams/voxie) | United States | Marketing | Hybrid remote | JavaScript |  |  |  |
+| [Webflow](https://europeanremote.com/teams/webflow) | United States | Automation | Fully remote | Node.js, React, AWS |  |  |  |
+| [Wellhub](https://europeanremote.com/teams/wellhub) | United States | Healthcare | Fully remote | Golang |  |  | Yes |
+| [Workato](https://europeanremote.com/teams/workato) | United States | Automation | Hybrid remote |  |  |  |  |
+| [Zapier](https://europeanremote.com/teams/zapier) | United States | Automation | Fully remote | Python, Django, Node.js, RabbitMQ, Kafka, Golang, React, JavaScript and 1 more |  |  | Yes |
+| [ZenBusiness](https://europeanremote.com/teams/zenbusiness) | United States | LegalTech | Fully remote |  |  |  |  |
