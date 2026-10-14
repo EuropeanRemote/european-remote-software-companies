@@ -1,0 +1,77 @@
+name: Add or correct a company
+description: Suggest a company for the list, or a change to an existing entry
+title: "Company: "
+body:
+  - type: markdown
+    attributes:
+      value: Please read [CONTRIBUTING.md](https://github.com/EuropeanRemote/european-remote-software-companies/blob/main/CONTRIBUTING.md) first. Every claim needs a public link.
+  - type: dropdown
+    id: request
+    attributes:
+      label: Request
+      options:
+        - Add a company
+        - Correct an entry
+        - Remove an entry
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Company name
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: careers
+    attributes:
+      label: Careers page or job board
+      placeholder: https://
+  - type: input
+    id: headquarters
+    attributes:
+      label: Headquarters country
+      description: Write "No office" for a fully distributed company.
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Work mode
+      options:
+        - Fully remote
+        - Hybrid
+  - type: input
+    id: countries
+    attributes:
+      label: Countries the company hires from
+  - type: textarea
+    id: stack
+    attributes:
+      label: Tech stack
+      description: Back-end, front-end, databases and cloud.
+  - type: textarea
+    id: description
+    attributes:
+      label: What the company makes
+      description: One or two plain sentences. For a correction, describe what should change.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Public links that support the details above.
+    validations:
+      required: true
+  - type: checkboxes
+    id: criteria
+    attributes:
+      label: Criteria
+      options:
+        - label: The company meets the criteria in CONTRIBUTING.md
+          required: true
